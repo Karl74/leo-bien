@@ -1,78 +1,38 @@
-
-:root{
-  --blueBtn:#1255b2;
-  --redBtn:#d43f39;
-  --greenBtn:#72b212;
-  --purplefnt:#a037ff;
-  --yellow:#fbb146;
-  --bteal:#148d88;
-  --blueBg:#99ddff;
+.App {
+  text-align: center;
 }
 
-body {
-  background: var(--blueBg)!important;
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
 }
 
-.textHeader {
-  font-family: 'Luckiest Guy', cursive;
-  color:#fff;
-  font-size:5.5rem;
-  text-shadow: 3px 2px black !important;
-  line-height: .9em;
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
 }
 
-.stu-text-title{
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  font-size:3rem;
-  color:#fff;
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
 }
 
-.lesson-text {
-  font-family: 'Poppins', sans-serif;
-  font-size: 5rem;
-  color:#fff
+.App-link {
+  color: #61dafb;
 }
 
-.practice-text {
-  font-family: 'Poppins', sans-serif;
-  color:#fff
-}
-
-.bg-title {
-  background-color: var(--yellow)!important;
-}
-
-.bg-board{
-  background: var(--bteal)!important;
-  min-height: 26em;
-}
-
-.btn{
-  max-width:8em;
-}
-
-.buttonize{
-  cursor: pointer;
-}
-
-.buttonize:checked{
-  background-color: rgba(50,50,50,.5);
-}
-
-.buttonize:hover{
-  background-color: rgba(150,150,150,.5);
-}
-
-.grow{
-  transition:all .2s linear;
-}
-.grow:hover{
-  transform:scale(1.3)
-}
-
-.modalCard {
-  position:fixed;
-  top:35%;
-
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
 }
