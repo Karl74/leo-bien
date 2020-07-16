@@ -1,0 +1,211 @@
+choices for student font
+
+century gotic
+
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+
+comic sans
+
+ font-family: "Comic Sans MS", cursive, sans-serif;
+
+GOOGLE FONTS
+
+
+<link href="https://fonts.googleapis.com/css2?family=Comic+Neue:wght@700&family=Kalam:wght@400;700&family=Luckiest+Guy&family=Patrick+Hand&display=swap" rel="stylesheet">
+
+font-family: 'Comic Neue', cursive;
+"Comic Sans MS", cursive, sans-serif
+font-family: 'Kalam', cursive;
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Tenali Ramakrishna', sans-serif;
+
+font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+
+
+font-family: 'Lexend Tera', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Tenali Ramakrishna', sans-serif;
+
+#068148
+
+
+export default class Cart extends Component {
+	render(){
+		return (
+			<section>
+			
+			</section>	
+		)
+	}
+}
+
+
+
+
+export default function LeccionCons() {
+  return (
+    <div>
+      <div className="jumbotron py-2 text-center bg-title mb-1">
+        <AppConsumer>
+          {value=>{
+            const {head}=value.currentLesson
+            return (
+
+          <Title act={head}/>
+            )
+          }}
+        </AppConsumer>
+      </div>
+      
+      <div className="jumbotron py-1 px-1 bg-board mb-1">
+        <div className="container">
+          <div className="row">
+            <div className="col-sm-10 col-md-2 px-0">
+              <nav className="d-flex flex-md-column flex-wrap mt-md-3">
+                <SidebarBtn name="Silabas"/>
+                <SidebarBtn name="Palabras"/>
+                <SidebarBtn name="Oraciones"/>
+              </nav>
+            </div>
+            <div className="col-sm-10 col-md-10">
+              <LessonDisplay/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  )
+}
+
+
+
+const {render} = ReactDOM;
+const {Component, PureComponent} = React;
+
+class Audio extends React.Component {
+  constructor(props) {
+    super(props);
+  	this.state={ selectedColor: "green"}
+	this.chooseSound = (color) => this.setState({selectedColor: color});
+	this.playAudio = () => {
+		switch(this.state.selectedColor){
+			case "green":
+				this.green.play();
+			case "blue":
+				this.blue.play();
+			case "pink":
+				this.pink.play();
+			case "yellow":
+				this.yellow.play();
+			default:
+				this.green.play();
+									   }
+	}
+	  
+  }
+  render() {
+    return (
+      <div className="stage">
+		<audio ref={(green) => { this.green = green; }}>
+			<source src="https://s3.amazonaws.com/freecodecamp/simonSound1.mp3" type="audio/mpeg" >
+			</source>
+		</audio>
+		<audio ref={(blue) => { this.blue = blue; }}>
+			<source src="https://s3.amazonaws.com/freecodecamp/simonSound2.mp3"type="audio/mpeg" >
+			</source>
+		</audio>
+		<audio ref={(pink) => { this.pink = pink; }}>
+			<source src="https://s3.amazonaws.com/freecodecamp/simonSound3.mp3" type="audio/mpeg" >
+			</source>
+		</audio>
+		<audio ref={(yellow) => { this.yellow = yellow; }}>
+			<source src="https://s3.amazonaws.com/freecodecamp/simonSound4.mp3" type="audio/mpeg" >
+			</source>
+		</audio>
+		
+			<button className="btn btn-info" onClick={this.playAudio}>test sound</button>
+			<RadioButtons selectedColor={this.state.selectedColor} chooseSound={this.chooseSound}/>
+      </div>
+    );
+  }
+}
+
+const RadioButtons = ({selectedColor, chooseSound}) => <form>
+    <div className="radio">
+      <label>
+        <input type="radio" value="green" 
+                      checked={selectedColor === 'green'} 
+                      onChange={() => chooseSound('green')} />
+        green
+      </label>
+    </div>
+    <div className="radio">
+      <label>
+        <input type="radio" value="yellow" 
+                      checked={selectedColor === 'yellow'} 
+                      onChange={() => chooseSound("yellow")} />
+        yellow
+      </label>
+    </div>
+    <div className="radio">
+      <label>
+        <input type="radio" value="pink" 
+                      checked={selectedColor === 'pink'} 
+                      onChange={() => chooseSound("pink")} />
+        pink
+      </label>
+    </div>
+	<div className="radio">
+      <label>
+        <input type="radio" value="blue" 
+                      checked={selectedColor === 'blue'} 
+                      onChange={() => chooseSound("blue")} />
+        blue
+      </label>
+    </div>
+  </form>
+
+
+
+// render call
+render(<Audio />, document.getElementById('root'))
+
+
+
+
+ {value=>{
+            const {text} = value.onDisplay[value.slideIndex]
+            const {sound}= value.onDisplay[value.slideIndex]
+            const itemAudio= new Audio("../../audio/m/silabas/ma.m4a")
+            const playAudio = ()=>{itemAudio.play();console.log(sound)}
+            return (
+          <div className="card border-warning bg-transparent">
+            <div className="card-body">
+              <h1 className="lesson-text">{text}</h1>
+              <div className="d-flex justify-content-between">
+                <SidebarBtn name="anterior" action={value.prevSlide}/>
+                <svg onClick={()=>playAudio()} className="bi bi-volume-up text-light" width="2em" height="2em" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
+                    
+
+PSEUDO CODE FOR TESTING
+
+Call the pictures array amd filter all the letters that do match the active letters
+random function call an index 
+pop out the matching index from the array an store in the answers array
+REPEAT THE PROCESS ONCE 
+-------> TO REPEAT THE PROCESS YOU CAN CREATE TO VARIABLES THAT RUN A FUNCTION 
+            ---> The function return the popedout instance instead of storing into the answerarrray
+
+  FOLLOWING THE FUNCTION IDEA....
+
+  CREATE an answers array like this:
+            answerChoices = [{random1}, {random2}, {right answer}]
+  
+the RANDOM GENERATOR[a]  picks an index from 0-2
+the choosen index is poped out an store in the quizzAnswers array
+
+the RANDOM GENERATOR[B] pick an index from 0-1
+the choosen index is poped out an store in the quizzAnswers array  
+The last item on the array is poped an stored on the quizzAnswers array
