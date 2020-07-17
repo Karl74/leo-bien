@@ -5,7 +5,9 @@ export default function Modal() {
   return (
     <AppConsumer>
       {value=>{
-        const {modalOpen} = value
+        const {modalOpen, result} = value
+        console.log(result)
+        const message = (result)?"¡Muy Bien!":"Lo siento intentalo otra vez"
         if(!modalOpen){
           return null;
         } else {
@@ -18,8 +20,8 @@ export default function Modal() {
                   </div>
                   <div className="col-sm-12 col-md-8 px-sm-1 px-5">
                     <div className="card-body">
-                      <h3 className="card-title">¡Muy Bien!</h3>
-                      <button className="btn btn-danger">Siguiente</button>
+                      <h3 className="card-title">{message}</h3>
+                      <button className="btn btn-danger" onClick={()=>value.closeModal()}>Siguiente</button>
                     </div>
                   </div>
                 </div>

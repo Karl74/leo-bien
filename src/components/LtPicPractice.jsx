@@ -10,7 +10,10 @@ export default class LtPicPractice extends Component {
         <AppConsumer>
           {value=>{
             const {quizzAnswers} = value
-            console.log(quizzAnswers)
+            {/* console.log("index at practice:")
+            console.log(value.slideIndex)
+            console.log("answers practice:")
+            console.log(quizzAnswers) */}
             return(
               <div className="card border-warning bg-transparent">
                 <div className="card-body">
@@ -23,10 +26,6 @@ export default class LtPicPractice extends Component {
                           <AnswerCard text={answer.text} key={index} feedback={()=>value.openModal(answer.text)}/>)}
                     </div>
                   </div>
-                  <div className="text-right">
-                    <SidebarBtn name="next" action={value.nextPractice}/>
-                  </div>
-
                 </div>
             </div>
               ) 

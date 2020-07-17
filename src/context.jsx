@@ -16,9 +16,13 @@ class AppProvider extends Component {
     practiceMode:false,
     quizzAnswers:[],
     modalOpen:false,
-    complementLetters:[]
+    complementLetters:[],
+    result:false
   }
 
+  backToHome=()=>{
+    this.setState({prevAct:"inicio"})
+  }
 
   changeAct=(act)=>{
     const app = act
@@ -97,7 +101,7 @@ class AppProvider extends Component {
     },()=>{
       this.displayQuizzAnswerChoices()
     })
-    console.log(this.state.slideIndex)
+    console.log(`startPractice: ${this.state.slideIndex}`)
   }
 
   callComplementVocals=()=>{
@@ -142,14 +146,10 @@ class AppProvider extends Component {
   nextSlide=()=>{
     const maxIndex = this.state.onDisplay.length -1
     let tempSlideindex = (this.state.slideIndex === maxIndex)? 0: this.state.slideIndex+1
-    this.setState({slideIndex:tempSlideindex})
+    this.setState(()=>{return {slideIndex:tempSlideindex}})
   }
 
-  nextPractice=()=>{
-    this.nextSlide()
-    this.displayQuizzAnswerChoices()
-  }
-
+  
   prevSlide=()=>{
     const slideIndex = this.state.slideIndex
     let tempSlideIndex = (slideIndex !==0)?
@@ -158,14 +158,27 @@ class AppProvider extends Component {
     this.setState({slideIndex:tempSlideIndex})
   }
 
-  closeModal=(text)=>{
-    console.log(text)
-    this.setState({modalOpen:false})
+
+  nextPractice=()=>{
+    const maxIndex = this.state.onDisplay.length-1
+    const nextQuestion = (this.state.slideIndex === maxIndex)?0:this.state.slideIndex+1
+    this.setState(()=>{return{slideIndex:nextQuestion ,modalOpen:false}}, ()=>{this.displayQuizzAnswerChoices()})
+  }
+
+  closeModal=()=>{
+    if(!this.state.result){
+      this.setState(()=>{return{modalOpen:false}})
+    } else {
+      this.nextPractice()
+    }
   }
 
   openModal=(text)=>{
     console.log(text)
-    this.setState({modalOpen:true})
+    const currentWord = this.state.onDisplay[this.state.slideIndex]
+    console.log(currentWord)
+    const result = (currentWord.text === text)? true:false
+    this.setState(()=>{return{result:result, modalOpen:true}})
   }
 
   render() {
@@ -187,7 +200,8 @@ class AppProvider extends Component {
           startPractice:this.startPractice,
           openModal:this.openModal,
           closeModal:this.closeModal,
-          displayQuizzAnswerChoices:this.displayQuizzAnswerChoices
+          displayQuizzAnswerChoices:this.displayQuizzAnswerChoices,
+          backToHome:this.backToHome
             }}>
           {this.props.children}
         </AppContext.Provider>
