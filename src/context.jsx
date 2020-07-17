@@ -15,7 +15,8 @@ class AppProvider extends Component {
     dataVocales:vocalesdata,
     practiceMode:false,
     quizzAnswers:[],
-    modalOpen:false
+    modalOpen:false,
+    complementLetters:[]
   }
 
 
@@ -48,8 +49,14 @@ class AppProvider extends Component {
     let tempVocal = [...this.state.dataVocales]
     const index = tempVocal.indexOf(this.getVocal(id))
     const vocal = tempVocal[index]
-    this.setState({currentLesson:vocal,
-                  onDisplay:vocal.palabras})
+    this.setState(()=>{
+        return {
+          currentLesson:vocal,
+          onDisplay:vocal.palabras
+        }
+      }, ()=>{
+        this.callComplementVocals()
+      })
   }
   displayPalabras =()=>{
     let tempCurrentLesson = this.state.currentLesson
@@ -93,15 +100,14 @@ class AppProvider extends Component {
     console.log(this.state.slideIndex)
   }
 
-  callComplementLetters=()=>{
+  callComplementVocals=()=>{
     let currentLetter = this.state.currentLesson.lt
     const complementLetters = randomImg.filter(letter=> letter.lt !== currentLetter)
-    return complementLetters
+    this.setState({complementLetters:complementLetters})
   }
 
   createWrongChoices=()=>{
-    let complementLetters = this.callComplementLetters()
-    let letters = [...complementLetters]
+    let letters = [...this.state.complementLetters]
     let firstIndex = Math.floor(Math.random()*4)
     let secondIndex = Math.floor(Math.random()*3)
     let deleteOne= letters.splice(firstIndex,1)
@@ -119,14 +125,18 @@ class AppProvider extends Component {
     return quizzAnswers
   }
 
+  shuffleAnswers=(array)=>{
+    for (let i = array.length - 1; i > 0; i--) {
+      let j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array
+  }
+
   displayQuizzAnswerChoices=()=>{
     const answers = this.getQuizzChoices()
-    for(let i = answers.length-1; i > 0; i--){
-      let j= 0
-      j = Math.floor(Math.random()*(i + 1))
-        [answers[i], answers[j] = answers[j], answers[i]]
-    }
-    this.setState({quizzAnswers:answers})
+    const shuffled = this.shuffleAnswers(answers)
+    this.setState({quizzAnswers:shuffled})
   }
 
   nextSlide=()=>{
@@ -155,7 +165,7 @@ class AppProvider extends Component {
 
   openModal=(text)=>{
     console.log(text)
-    this.setState({ModalOpen:true})
+    this.setState({modalOpen:true})
   }
 
   render() {

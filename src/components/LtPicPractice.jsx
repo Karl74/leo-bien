@@ -10,6 +10,7 @@ export default class LtPicPractice extends Component {
         <AppConsumer>
           {value=>{
             const {quizzAnswers} = value
+            console.log(quizzAnswers)
             return(
               <div className="card border-warning bg-transparent">
                 <div className="card-body">

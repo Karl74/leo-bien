@@ -12,6 +12,7 @@ export default function LeccionVoc() {
       {value=>{
         const {head}= value.currentLesson
         const toDeploy=(value.practiceMode)? <LtPicPractice/> : <LessonDisplay/>
+        console.log(value.complementLetters)
 
         return(
         <div>
