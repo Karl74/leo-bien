@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import { AppConsumer } from '../context'
 import AnswerCard from "./AnswerCard"
-import SidebarBtn from "./SidebarBtn"
 
 export default class LtPicPractice extends Component {
   render() {
@@ -10,10 +9,6 @@ export default class LtPicPractice extends Component {
         <AppConsumer>
           {value=>{
             const {quizzAnswers} = value
-            {/* console.log("index at practice:")
-            console.log(value.slideIndex)
-            console.log("answers practice:")
-            console.log(quizzAnswers) */}
             return(
               <div className="card border-warning bg-transparent">
                 <div className="card-body">

@@ -2,7 +2,7 @@ export const vocalesdata = [
   {
     lt:"a",
     head:"Aa",
-    mainP: "../../img/mom50.png",
+    mainP: "../../img/a/ave.jpg",
     mainS:"../../audio/a/a.mp3",
     palabras:[
       { id:1,
@@ -51,7 +51,7 @@ export const vocalesdata = [
   {
     lt:"e",
     head:"Ee",
-    mainP: "../../img/mom50.png",
+    mainP: "../../img/e/espejo.png",
     mainS:"../../audio/e/e.mp3",
     palabras:[
       { id:1,
@@ -100,7 +100,7 @@ export const vocalesdata = [
   {
     lt:"i",
     head:"Ii",
-    mainP: "../../img/mom50.png",
+    mainP: "../../img/i/igloo.png",
     mainS:"../../audio/i/i.mp3",
     palabras:[
       { id:1,
@@ -149,7 +149,7 @@ export const vocalesdata = [
   {
     lt:"o",
     head:"Oo",
-    mainP: "../../img/mom50.png",
+    mainP: "../../img/o/ojo.png",
     mainS:"../../audio/o/o.mp3",
     palabras:[
       { id:1,
@@ -198,7 +198,7 @@ export const vocalesdata = [
   {
     lt:"u",
     head:"Uu",
-    mainP: "../../img/mom50.png",
+    mainP: "../../img/u/unicorn.png",
     mainS:"../../audio/u/u.mp3",
     palabras:[
       { id:1,
