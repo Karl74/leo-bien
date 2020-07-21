@@ -9,6 +9,7 @@ export default class LtPicPractice extends Component {
         <AppConsumer>
           {value=>{
             const {quizzAnswers} = value
+            console.log(quizzAnswers)
             return(
               <div className="card border-warning bg-transparent">
                 <div className="card-body">
@@ -18,7 +19,7 @@ export default class LtPicPractice extends Component {
                   <div className="container">
                     <div className="row">
                         {quizzAnswers.map((answer, index)=>
-                          <AnswerCard text={answer.text} key={index} feedback={()=>value.openModal(answer.text)}/>)}
+                          <AnswerCard text={answer.text} img={answer.img} key={index} feedback={()=>value.openModal(answer.text)}/>)}
                     </div>
                   </div>
                 </div>

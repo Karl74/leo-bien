@@ -384,12 +384,12 @@ export const consonantes = [
           sound:"../../audio/"
           },
         {id:3,
-          text:"aro",
+          text:"torta",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"arete",
+          text:"tarro",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -463,22 +463,22 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"papá",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"papel",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"puma",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"sopa",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -488,27 +488,27 @@ export const consonantes = [
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"perro",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"pesa",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"piso",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"pila",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"poste",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -516,15 +516,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"El pato pisa la mesa."
       },
       {
         id:2,
-        text:""
+        text:"Pita limpia la ropa."
       },
       {
         id:3,
-        text:""
+        text:"Pepe pide papas, papa pide sopa."
       }      
     ]
   },
@@ -552,52 +552,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"una",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"rana",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"nena",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"tina",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"nota",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"salón",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"león",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"pino",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"tiene",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"tanto",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -605,15 +605,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Nora tiene tanto tino. "
       },
       {
         id:2,
-        text:""
+        text:"Mi nana pinta una luna."
       },
       {
         id:3,
-        text:""
+        text:"Unas ranas salen solas."
       }      
     ]
   },
@@ -635,52 +635,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"casa",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"cama",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"cosa",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"poco",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"coco",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"cuete",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"cuarto",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"mosca",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"taco",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"camisa",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -688,15 +688,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Cuca cose la camisa."
       },
       {
         id:2,
-        text:""
+        text:"Carlos cura a los animales roncos."
       },
       {
         id:3,
-        text:""
+        text:"Carmen corre con la canasta de comida."
       }      
     ]
   },
@@ -724,52 +724,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"dado",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"soda",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"rueda",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"dedo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"duende",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"ducha",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"dedo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"diente",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"día",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"sandía",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -777,15 +777,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Diana da sandía a todos."
       },
       {
         id:2,
-        text:""
+        text:"Dani desperto con dolor de diente."
       },
       {
         id:3,
-        text:""
+        text:"Dennis pierde el pandero"
       }      
     ]
   },
@@ -813,52 +813,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"vaca",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"vaso",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"nieve",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"venado",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"violín",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"curva",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"verde",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"pavo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"selva",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"polvo",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -866,15 +866,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Victoria vive en la selva verde."
       },
       {
         id:2,
-        text:""
+        text:"El carro viene por la curva "
       },
       {
         id:3,
-        text:""
+        text:"Viviana lava la ropa con polvo"
       }      
     ]
   },
@@ -902,52 +902,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"falda",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"feo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"familia",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"fuente",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"fiesta",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"foto",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"teléfono",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"jefe",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"fila",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"foco",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -955,15 +955,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Fernando toma fotos con el teléfono."
       },
       {
         id:2,
-        text:""
+        text:"Mi familia toma café en el sofá."
       },
       {
         id:3,
-        text:""
+        text:"Sofía esta en la fila para la fiesta "
       }      
     ]
   },
@@ -991,52 +991,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"barco",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"bandera",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"nube",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"cubeta",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"bolsa",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"tambor",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"abuelo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"beso",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"silbido",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"bueno",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1044,15 +1044,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Bernabe tiene un barco en la bolsa."
       },
       {
         id:2,
-        text:""
+        text:"Beto sube la bandera."
       },
       {
         id:3,
-        text:""
+        text:"El lobo busca la bota."
       }      
     ]
   },
@@ -1080,52 +1080,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"abeja",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"jabón",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"mujer",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"viaje",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"jirafa",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"cojín",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"cobija",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"vieja",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"espejo",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"reja",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1133,15 +1133,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Los conejos bajan por la reja."
       },
       {
         id:2,
-        text:""
+        text:"La mujer vieja viaja con su espejo."
       },
       {
         id:3,
-        text:""
+        text:"Julia pone la cobija en la caja"
       }      
     ]
   },
@@ -1169,52 +1169,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"uña",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"piña",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"araña",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"muñeco",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"sueño",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"baño",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"pañuelo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"cabaña",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"montaña",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"mañana",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1222,15 +1222,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Mañana lleva la leña a la cabaña."
       },
       {
         id:2,
-        text:""
+        text:"El niño se baña con el pañal."
       },
       {
         id:3,
-        text:""
+        text:"Toño daña la piñata de piña."
       }      
     ]
   },
@@ -1258,52 +1258,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"aro",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"toro",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"pera",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"arena",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"arete",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"números",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"palmera",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"máscara",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"mariposa",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"piruli",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1311,15 +1311,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Mira la mariposa en la plamera"
       },
       {
         id:2,
-        text:""
+        text:"María lleva naranjas para la merienda"
       },
       {
         id:3,
-        text:""
+        text:"El pajaro marino se para en la arena"
       }      
     ]
   },
@@ -1341,52 +1341,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"gata",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"ganso",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"gorro",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"gota",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"gusano",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"agua",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"igual",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"mango",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"amigos",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"garra",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1394,15 +1394,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"El gorila agarra un mango."
       },
       {
         id:2,
-        text:""
+        text:"Al ganso le gusta el agua."
       },
       {
         id:3,
-        text:""
+        text:"Gustavo guarda la goma de Diego"
       }      
     ]
   },
@@ -1430,52 +1430,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"hora",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"hada",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"helado",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"hilo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"hoja",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"hierba",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"huevo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"hermano",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"cacahuate",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"humo",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1483,15 +1483,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Ahora huele a humo"
       },
       {
         id:2,
-        text:""
+        text:"La hija hermosa come helado"
       },
       {
         id:3,
-        text:""
+        text:"Homero corta hojas de hierba"
       }      
     ]
   },
@@ -1519,52 +1519,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"noche",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"chiva",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"muchacha",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"leche",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"lechuga",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"chispa",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"chocolate",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"lucha",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"techo",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"chupón",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1572,15 +1572,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"El chofer maneja chueco"
       },
       {
         id:2,
-        text:""
+        text:"La muchacha toma leche de noche"
       },
       {
         id:3,
-        text:""
+        text:"El chavo lucha en la cancha"
       }      
     ]
   },
@@ -1608,52 +1608,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"llave",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"olla",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"ballena",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"muelle",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"gallina",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"mellizo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"camello",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"caballo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"lluvia",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"collar",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1661,15 +1661,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"La lluvia llega al muelle"
       },
       {
         id:2,
-        text:""
+        text:"Ella lleva al caballo con la silla"
       },
       {
         id:3,
-        text:""
+        text:"El pollo chilla en la orilla"
       }      
     ]
   },
@@ -1688,52 +1688,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"queso",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"parque",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"bosque",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"vaquero",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"estanque",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"quinqué",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"equipo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"maquillaje",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"máquina",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"mosquito",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1741,15 +1741,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Un mosquito me pico en el estanque."
       },
       {
         id:2,
-        text:""
+        text:"El vaquero lleva su equipo al bosque."
       },
       {
         id:3,
-        text:""
+        text:"Quique quiere ir al parque."
       }      
     ]
   },
@@ -1777,42 +1777,42 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"y",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"hay",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"soy",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"yoyo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"joya",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"raya",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"payaso",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"yema",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1822,7 +1822,7 @@ export const consonantes = [
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"hoyo",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1830,15 +1830,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"¡Oye! esa es la yema de Maya."
       },
       {
         id:2,
-        text:""
+        text:"El payaso raya la joya."
       },
       {
         id:3,
-        text:""
+        text:"El rey se cayó en el hoyo."
       }      
     ]
   },
@@ -1858,52 +1858,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"juguete",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"guerra",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"guía",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"guisado",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"manguera",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"guitarra",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"Miguel",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"águila",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"guijarro",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"seguidor",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -1911,15 +1911,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Guillermo sigue al guía."
       },
       {
         id:2,
-        text:""
+        text:"Miguel pone los guineos en las manguitas."
       },
       {
         id:3,
-        text:""
+        text:"Esa águila es de juguete"
       }      
     ]
   },
@@ -1938,68 +1938,53 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"cigüeña",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"güero",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"bilingüe",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"güiro",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"pingüino",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"paragüero",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"yegüita",
           pic:"the url",
           sound:"../../audio/"
-          },
-        {id:8,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },
-        {id:9,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },  
-        {id:10,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },
+          }
     ],
     oraciones:[
       {
         id:1,
-        text:""
+        text:"El güero es bilingüe"
       },
       {
         id:2,
-        text:""
+        text:"La cigüeña y el pingüino son aves"
       },
       {
         id:3,
-        text:""
+        text:"La yegüita corre en el pasto"
       }      
     ]
   },
@@ -2018,52 +2003,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"imagen",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"vegetal",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"gemelo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"genio",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"girasol",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"magia",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"página",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"energía",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"gimnasio",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"refugio",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -2071,15 +2056,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Germán y su gemelo tienen una urgencía"
       },
       {
         id:2,
-        text:""
+        text:"La pagina tiene una imagen de girasol"
       },
       {
         id:3,
-        text:""
+        text:"Ángel tiene mucha energía"
       }      
     ]
   },
@@ -2098,68 +2083,68 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"ceja",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"alce",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"cena",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"cero",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"cerca",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"cocina",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"bicicleta",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"cine",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"cinturón",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"cuidad",
           pic:"the url",
           sound:"../../audio/"
-          },
+          }
     ],
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Ceci cocina la cena."
       },
       {
         id:2,
-        text:""
+        text:"Ese cine esta cerca de la ciudad."
       },
       {
         id:3,
-        text:""
+        text:"El cinturón a veces se ensucia."
       }      
     ]
   },
@@ -2187,52 +2172,42 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"kilo",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"kimono",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"kiosko",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"kayak",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"karate",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"kinder",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"mikado",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },
-        {id:9,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },  
-        {id:10,
-          text:"",
+          text:"Alaska",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -2240,15 +2215,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Kiko hace karate con un kimono"
       },
       {
         id:2,
-        text:""
+        text:"Voy a Alaska en mi kayak"
       },
       {
         id:3,
-        text:""
+        text:"En el kinder jugamos mikado"
       }      
     ]
   },
@@ -2276,52 +2251,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"brazo",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"maíz",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"nariz",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"pieza",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"zebra",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"lazo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"pozo",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"taza",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"azucar",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"zorro",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -2329,15 +2304,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"El zorro tomó la pieza de caza"
       },
       {
         id:2,
-        text:""
+        text:"La taza tiene azucar"
       },
       {
         id:3,
-        text:""
+        text:"El vestido tiene un lazo azul"
       }      
     ]
   },
@@ -2365,52 +2340,52 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"taxi",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"Texas",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"México",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"fenix",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"texto",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"xilófono",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"saxofón",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"exámen",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"galaxia",
           pic:"the url",
           sound:"../../audio/"
           },  
         {id:10,
-          text:"",
+          text:"Xavier",
           pic:"the url",
           sound:"../../audio/"
           },
@@ -2418,15 +2393,15 @@ export const consonantes = [
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Xavier toca el saxofón"
       },
       {
         id:2,
-        text:""
+        text:"Viajamos a Texas en taxi"
       },
       {
         id:3,
-        text:""
+        text:"El texto es de una galaxia"
       }      
     ]
   },
@@ -2454,68 +2429,58 @@ export const consonantes = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"Washington",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:2,
-          text:"",
+          text:"kiwi",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:3,
-          text:"",
+          text:"sandwich",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:4,
-          text:"",
+          text:"wasabi",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:5,
-        text:"",
+        text:"Wendy",
         pic:"the url",
         sound:"../../audio/"
         },
         {id:6,
-          text:"",
+          text:"Hawai",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:7,
-          text:"",
+          text:"Malawi",
           pic:"the url",
           sound:"../../audio/"
           },
         {id:8,
-          text:"",
+          text:"waterpolo",
           pic:"the url",
           sound:"../../audio/"
-          },
-        {id:9,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },  
-        {id:10,
-          text:"",
-          pic:"the url",
-          sound:"../../audio/"
-          },
+          }
     ],
     oraciones:[
       {
         id:1,
-        text:""
+        text:"Wendy viaja a Malawi"
       },
       {
         id:2,
-        text:""
+        text:"Walter juega waterpolo en Hawai"
       },
       {
         id:3,
-        text:""
+        text:"Hay sanwiches con kiwi para el almuerzo"
       }      
     ]
   },
