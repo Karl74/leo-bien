@@ -731,88 +731,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"da",
-          sound:"../../audio/d/da"
+          sound:"../../audio/d/da.mp3"
         },
         { text:"de",
-          sound:"../../audio/d/de"
+          sound:"../../audio/d/de.mp3"
         },
         { text:"di",
-          sound:"../../audio/d/di"
+          sound:"../../audio/d/di.mp3"
         },
         { text:"do",
-          sound:"../../audio/d/do"
+          sound:"../../audio/d/do.mp3"
         },      
         { text:"du",
-          sound:"../../audio/d/du"
+          sound:"../../audio/d/du.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"dado",
         pic:"the url",
-        sound:"../../audio/d/dado"
+        sound:"../../audio/d/dado.mp3"
         },
         {id:2,
           text:"soda",
           pic:"the url",
-          sound:"../../audio/d/soda"
+          sound:"../../audio/d/soda.mp3"
           },
         {id:3,
           text:"rueda",
           pic:"the url",
-          sound:"../../audio/d/rueda"
+          sound:"../../audio/d/rueda.mp3"
           },
         {id:4,
           text:"dedo",
           pic:"the url",
-          sound:"../../audio/d/dedo"
+          sound:"../../audio/d/dedo.mp3"
           },
         {id:5,
         text:"duende",
         pic:"the url",
-        sound:"../../audio/d/duende"
+        sound:"../../audio/d/duende.mp3"
         },
         {id:6,
           text:"ducha",
           pic:"the url",
-          sound:"../../audio/d/ducha"
+          sound:"../../audio/d/ducha.mp3"
           },
         {id:7,
           text:"dedo",
           pic:"the url",
-          sound:"../../audio/d/dedo"
+          sound:"../../audio/d/dedo.mp3"
           },
         {id:8,
           text:"diente",
           pic:"the url",
-          sound:"../../audio/d/diente"
+          sound:"../../audio/d/diente.mp3"
           },
         {id:9,
           text:"día",
           pic:"the url",
-          sound:"../../audio/d/dia"
+          sound:"../../audio/d/dia.mp3"
           },  
         {id:10,
           text:"sandía",
           pic:"the url",
-          sound:"../../audio/d/sandia"
+          sound:"../../audio/d/sandia.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
         text:"Diana da sandía a todos.",
-        sound:"../../audio/d/dor1"
+        sound:"../../audio/d/dor1.mp3"
       },
       {
         id:2,
         text:"Dani desperto con dolor de diente.",
-        sound:"../../audio/d/dor2"
+        sound:"../../audio/d/dor2.mp3"
       },
       {
         id:3,
         text:"Dennis pierde el pandero",
-        sound:"../../audio/d/dor3"
+        sound:"../../audio/d/dor3.mp3"
       }      
     ]
   },
@@ -915,85 +915,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"fa",
-          sound:"../../audio/"
+          sound:"../../audio/f/fa.mp3"
         },
         { text:"fe",
-          sound:"../../audio/"
+          sound:"../../audio/f/fe.mp3"
         },
         { text:"fi",
-          sound:"../../audio/"
+          sound:"../../audio/f/fi.mp3"
         },
         { text:"fo",
-          sound:"../../audio/"
+          sound:"../../audio/f/fo.mp3"
         },      
         { text:"fu",
-          sound:"../../audio/"
+          sound:"../../audio/f/fo.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"falda",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/f/falda.mp3"
         },
         {id:2,
           text:"feo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/feo.mp3"
           },
         {id:3,
           text:"familia",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/familia.mp3"
           },
         {id:4,
           text:"fuente",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/fuente.mp3"
           },
         {id:5,
         text:"fiesta",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/f/fiesta.mp3"
         },
         {id:6,
           text:"foto",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/foto.mp3"
           },
         {id:7,
           text:"teléfono",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/telefono.mp3"
           },
         {id:8,
           text:"jefe",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/jefe.mp3"
           },
         {id:9,
           text:"fila",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/fila.mp3"
           },  
         {id:10,
           text:"foco",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/f/foco.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Fernando toma fotos con el teléfono."
+        text:"Fernando toma fotos con el teléfono.",
+        sound:"../../audio/f/for1.mp3"
       },
       {
         id:2,
-        text:"Mi familia toma café en el sofá."
+        text:"Mi familia toma café en el sofá.",
+        sound:"../../audio/f/for2.mp3"
       },
       {
         id:3,
-        text:"Sofía esta en la fila para la fiesta "
+        text:"Sofía esta en la fila para la fiesta ",
+        sound:"../../audio/f/for3.mp3"
       }      
     ]
   },
@@ -1004,85 +1007,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ba",
-          sound:"../../audio/"
+          sound:"../../audio/b/ba.mp3"
         },
         { text:"be",
-          sound:"../../audio/"
+          sound:"../../audio/b/be.mp3"
         },
         { text:"bi",
-          sound:"../../audio/"
+          sound:"../../audio/b/bi.mp3"
         },
         { text:"bo",
-          sound:"../../audio/"
+          sound:"../../audio/b/bo.mp3"
         },      
         { text:"bu",
-          sound:"../../audio/"
+          sound:"../../audio/b/bu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"barco",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/b/barco.mp3"
         },
         {id:2,
           text:"bandera",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/bandera.mp3"
           },
         {id:3,
           text:"nube",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/nube.mp3"
           },
         {id:4,
           text:"cubeta",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/cubeta.mp3"
           },
         {id:5,
         text:"bolsa",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/b/bolsa.mp3"
         },
         {id:6,
           text:"tambor",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/tambor.mp3"
           },
         {id:7,
           text:"abuelo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/abuelo.mp3"
           },
         {id:8,
           text:"beso",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/beso.mp3"
           },
         {id:9,
           text:"silbido",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/silbido.mp3"
           },  
         {id:10,
           text:"bueno",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/b/bueno.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Bernabe tiene un barco en la bolsa."
+        text:"Bernabe tiene un barco en la bolsa.",
+        sound:"../../audio/b/bor1.mp3"
       },
       {
         id:2,
-        text:"Beto sube la bandera."
+        text:"Beto sube la bandera.",
+        sound:"../../audio/b/bor2.mp3"
       },
       {
         id:3,
-        text:"El lobo busca la bota."
+        text:"El lobo busca la bota.",
+        sound:"../../audio/b/bor3.mp3"
       }      
     ]
   },
@@ -1093,85 +1099,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ja",
-          sound:"../../audio/"
+          sound:"../../audio/j/ja.mp3"
         },
         { text:"je",
-          sound:"../../audio/"
+          sound:"../../audio/j/je.mp3"
         },
         { text:"ji",
-          sound:"../../audio/"
+          sound:"../../audio/j/ji.mp3"
         },
         { text:"jo",
-          sound:"../../audio/"
+          sound:"../../audio/j/jo.mp3"
         },      
         { text:"ju",
-          sound:"../../audio/"
+          sound:"../../audio/j/ju.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"abeja",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/j/abeja.mp3"
         },
         {id:2,
           text:"jabón",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/jabon.mp3"
           },
         {id:3,
           text:"mujer",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/mujer.mp3"
           },
         {id:4,
           text:"viaje",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/viaje.mp3"
           },
         {id:5,
         text:"jirafa",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/j/jirafa.mp3"
         },
         {id:6,
           text:"cojín",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/cojin.mp3"
           },
         {id:7,
           text:"cobija",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/cobija.mp3"
           },
         {id:8,
           text:"vieja",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/viaje.mp3"
           },
         {id:9,
           text:"espejo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/espejo.mp3"
           },  
         {id:10,
           text:"reja",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/j/reja.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Los conejos bajan por la reja."
+        text:"Los conejos bajan por la reja.",
+        sound:"../../audio/j/jor1.mp3"
       },
       {
         id:2,
-        text:"La mujer vieja viaja con su espejo."
+        text:"La mujer vieja viaja con su espejo.",
+        sound:"../../audio/j/jor2.mp3"
       },
       {
         id:3,
-        text:"Julia pone la cobija en la caja"
+        text:"Julia pone la cobija en la caja",
+        sound:"../../audio/j/jor3.mp3"
       }      
     ]
   },
@@ -1182,85 +1191,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ña",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/ña.mp3"
         },
         { text:"ñe",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/ñe.mp3"
         },
         { text:"ñi",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/ñi.mp3"
         },
         { text:"ño",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/ño.mp3"
         },      
         { text:"ñu",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/ñu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"uña",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/ñ/uña.mp3"
         },
         {id:2,
           text:"piña",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/piña.mp3"
           },
         {id:3,
           text:"araña",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/araña.mp3"
           },
         {id:4,
           text:"muñeco",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/muñeco.mp3"
           },
         {id:5,
         text:"sueño",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/ñ/sueño.mp3"
         },
         {id:6,
           text:"baño",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/baño.mp3"
           },
         {id:7,
           text:"pañuelo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/pañuelo.mp3"
           },
         {id:8,
           text:"cabaña",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/cabaña.mp3"
           },
         {id:9,
           text:"montaña",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ñ/montaña.mp3"
           },  
         {id:10,
           text:"mañana",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/mañana.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Mañana lleva la leña a la cabaña."
+        text:"Mañana lleva la leña a la cabaña.",
+        sound:"../../audio/ñ/mañana.mp3"
       },
       {
         id:2,
-        text:"El niño se baña con el pañal."
+        text:"El niño se baña con el pañal.",
+        sound:"../../audio/ñ/pañal.mp3"
       },
       {
         id:3,
-        text:"Toño daña la piñata de piña."
+        text:"Toño daña la piñata de piña.",
+        sound:"../../audio/ñ/piñata.mp3"
       }      
     ]
   },
@@ -1271,85 +1283,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ra",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/ra.mp3"
         },
         { text:"re",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/re.mp3"
         },
         { text:"ri",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/ri.mp3"
         },
         { text:"ro",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/ro.mp3"
         },      
         { text:"ru",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/ru.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"aro",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/rsuave/aro.mp3"
         },
         {id:2,
           text:"toro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/toro.mp3"
           },
         {id:3,
           text:"pera",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/pera.mp3"
           },
         {id:4,
           text:"arena",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/arena.mp3"
           },
         {id:5,
         text:"arete",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/rsuave/arete.mp3"
         },
         {id:6,
           text:"números",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/numeros.mp3"
           },
         {id:7,
           text:"palmera",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/palmera.mp3"
           },
         {id:8,
           text:"máscara",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/mascara.mp3"
           },
         {id:9,
           text:"mariposa",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/mariposa.mp3"
           },  
         {id:10,
           text:"piruli",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/rsuave/piruli.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Mira la mariposa en la plamera"
+        text:"Mira la mariposa en la plamera",
+        sound:"../../audio/rsuave/ror1.mp3"
       },
       {
         id:2,
-        text:"María lleva naranjas para la merienda"
+        text:"María lleva naranjas para la merienda",
+        sound:"../../audio/rsuave/ror2.mp3"
       },
       {
         id:3,
-        text:"El pájaro marino se para en la arena"
+        text:"El pájaro marino se para en la arena",
+        sound:"../../audio/rsuave/ror3.mp3"
       }      
     ]
   },
@@ -1360,79 +1375,82 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ga",
-          sound:"../../audio/"
+          sound:"../../audio/g/ga.mp3"
         },
         { text:"go",
-          sound:"../../audio/"
+          sound:"../../audio/g/go.mp3"
         },
         { text:"gu",
-          sound:"../../audio/"
+          sound:"../../audio/g/gu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"gata",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/g/gata.mp3"
         },
         {id:2,
           text:"ganso",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/gansa.mp3"
           },
         {id:3,
           text:"gorro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/gorro.mp3"
           },
         {id:4,
           text:"gota",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/gota.mp3"
           },
         {id:5,
         text:"gusano",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/g/gusano.mp3"
         },
         {id:6,
           text:"agua",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/agua.mp3"
           },
         {id:7,
           text:"igual",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/igual.mp3"
           },
         {id:8,
           text:"mango",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/mango.mp3"
           },
         {id:9,
           text:"amigos",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/amigos.mp3"
           },  
         {id:10,
           text:"garra",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/g/garra.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"El gorila agarra un mango."
+        text:"El gorila agarra un mango.",
+        sound:"../../audio/g/gor1.mp3"
       },
       {
         id:2,
-        text:"Al ganso le gusta el agua."
+        text:"Al ganso le gusta el agua.",
+        sound:"../../audio/g/gor2.mp3"
       },
       {
         id:3,
-        text:"Gustavo guarda la goma de Diego"
+        text:"Gustavo guarda la goma de Diego",
+        sound:"../../audio/g/gor3.mp3"
       }      
     ]
   },
@@ -1443,85 +1461,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ha",
-          sound:"../../audio/"
+          sound:"../../audio/h/ha.mp3"
         },
         { text:"he",
-          sound:"../../audio/"
+          sound:"../../audio/h/he.mp3"
         },
         { text:"hi",
-          sound:"../../audio/"
+          sound:"../../audio/h/hi.mp3"
         },
         { text:"ho",
-          sound:"../../audio/"
+          sound:"../../audio/h/ho.mp3"
         },      
         { text:"hu",
-          sound:"../../audio/"
+          sound:"../../audio/h/hu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"hora",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/h/hora.mp3"
         },
         {id:2,
           text:"hada",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/hada.mp3"
           },
         {id:3,
           text:"helado",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/helado.mp3"
           },
         {id:4,
           text:"hilo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/hilo.mp3"
           },
         {id:5,
         text:"hoja",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/h/hoja.mp3"
         },
         {id:6,
           text:"hierba",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/hierba.mp3"
           },
         {id:7,
           text:"huevo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/huevo.mp3"
           },
         {id:8,
           text:"hermano",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/hermano.mp3"
           },
         {id:9,
           text:"cacahuate",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/cacahuate.mp3"
           },  
         {id:10,
           text:"humo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/h/humo.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Ahora huele a humo"
+        text:"Ahora huele a humo",
+        sound:"../../audio/h/hor1.mp3"
       },
       {
         id:2,
-        text:"La hija hermosa come helado"
+        text:"La hija hermosa come helado",
+        sound:"../../audio/h/hor2.mp3"
       },
       {
         id:3,
-        text:"Homero corta hojas de hierba"
+        text:"Homero corta hojas de hierba",
+        sound:"../../audio/h/hor3.mp3"
       }      
     ]
   },
@@ -1532,85 +1553,89 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"cha",
-          sound:"../../audio/"
+          sound:"../../audio/ch/cha.mp3"
         },
         { text:"che",
-          sound:"../../audio/"
+          sound:"../../audio/ch/che.mp3"
         },
         { text:"chi",
-          sound:"../../audio/"
+          sound:"../../audio/ch/chi.mp3"
         },
         { text:"cho",
-          sound:"../../audio/"
+          sound:"../../audio/ch/cho.mp3"
         },      
         { text:"chu",
-          sound:"../../audio/"
+          sound:"../../audio/ch/chu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"noche",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/ch/noche.mp3"
         },
         {id:2,
           text:"chiva",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/chiva.mp3"
           },
         {id:3,
           text:"muchacha",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/muchacha.mp3"
           },
         {id:4,
           text:"leche",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/leche.mp3"
           },
         {id:5,
         text:"lechuga",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/ch/leche.mp3"
         },
         {id:6,
           text:"chispa",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/chispa.mp3"
           },
         {id:7,
           text:"chocolate",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/chocolate.mp3"
           },
         {id:8,
           text:"lucha",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/lucha.mp3"
           },
         {id:9,
           text:"techo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/techo.mp3"
           },  
         {id:10,
           text:"chupón",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ch/chupon.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"El chofer maneja chueco"
+        text:"El chofer maneja chueco",
+        sound:"../../audio/ch/chor1.mp3"
       },
       {
         id:2,
-        text:"La muchacha toma leche de noche"
+        text:"La muchacha toma leche de noche",
+        sound:"../../audio/ch/chor2.mp3"
+
       },
       {
         id:3,
-        text:"El chavo lucha en la cancha"
+        text:"El chavo lucha en la cancha",
+        sound:"../../audio/ch/chor3.mp3"
       }      
     ]
   },
@@ -1621,85 +1646,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"lla",
-          sound:"../../audio/"
+          sound:"../../audio/ll/lla.mp3"
         },
         { text:"lle",
-          sound:"../../audio/"
+          sound:"../../audio/ll/lle.mp3"
         },
         { text:"lli",
-          sound:"../../audio/"
+          sound:"../../audio/ll/lli.mp3"
         },
         { text:"llo",
-          sound:"../../audio/"
+          sound:"../../audio/ll/llo.mp3"
         },      
         { text:"llu",
-          sound:"../../audio/"
+          sound:"../../audio/ll/llu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"llave",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/ll/llave.mp3"
         },
         {id:2,
           text:"olla",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/olla.mp3"
           },
         {id:3,
           text:"ballena",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/ballena.mp3"
           },
         {id:4,
           text:"muelle",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/muelle.mp3"
           },
         {id:5,
         text:"gallina",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/ll/gallina.mp3"
         },
         {id:6,
           text:"mellizo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/mellizo.mp3"
           },
         {id:7,
           text:"camello",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/camello.mp3"
           },
         {id:8,
           text:"caballo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/caballo.mp3"
           },
         {id:9,
           text:"lluvia",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/lluvia.mp3"
           },  
         {id:10,
           text:"collar",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/ll/collar.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"La lluvia llega al muelle"
+        text:"La lluvia llega al muelle",
+        sound:"../../audio/ll/llor1.mp3"
       },
       {
         id:2,
-        text:"Ella lleva al caballo con la silla"
+        text:"Ella lleva al caballo con la silla",
+        sound:"../../audio/ll/llor2.mp3"
       },
       {
         id:3,
-        text:"El pollo chilla en la orilla"
+        text:"El pollo chilla en la orilla",
+        sound:"../../audio/ll/llor3.mp3"
       }      
     ]
   },
@@ -1710,76 +1738,79 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"que",
-          sound:"../../audio/"
+          sound:"../../audio/q/que.mp3"
         },
         { text:"qui",
-          sound:"../../audio/"
+          sound:"../../audio/q/qui.mp3"
         }      
     ],
     palabras:[
         {id:1,
         text:"queso",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/q/queso.mp3"
         },
         {id:2,
           text:"parque",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/parque.mp3"
           },
         {id:3,
           text:"bosque",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/bosque.mp3"
           },
         {id:4,
           text:"vaquero",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/vaquero.mp3"
           },
         {id:5,
         text:"estanque",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/q/estanque.mp3"
         },
         {id:6,
           text:"quinqué",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/quinque.mp3"
           },
         {id:7,
           text:"equipo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/equipo.mp3"
           },
         {id:8,
           text:"maquillaje",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/maquillaje.mp3"
           },
         {id:9,
           text:"máquina",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/maquina.mp3"
           },  
         {id:10,
           text:"mosquito",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/q/mosquito.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Un mosquito me pico en el estanque."
+        text:"Un mosquito me pico en el estanque.",
+        sound:"../../audio/q/qor1.mp3"
       },
       {
         id:2,
-        text:"El vaquero lleva su equipo al bosque."
+        text:"El vaquero lleva su equipo al bosque.",
+        sound:"../../audio/q/qor2.mp3"
       },
       {
         id:3,
-        text:"Quique quiere ir al parque."
+        text:"Quique quiere ir al parque.",
+        sound:"../../audio/q/qor3.mp3"
       }      
     ]
   },
@@ -1790,85 +1821,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ya",
-          sound:"../../audio/"
+          sound:"../../audio/y/ya.mp3"
         },
         { text:"ye",
-          sound:"../../audio/"
+          sound:"../../audio/y/ye.mp3"
         },
         { text:"yi",
-          sound:"../../audio/"
+          sound:"../../audio/y/yi.mp3"
         },
         { text:"yo",
-          sound:"../../audio/"
+          sound:"../../audio/y/yo.mp3"
         },      
         { text:"yu",
-          sound:"../../audio/"
+          sound:"../../audio/y/yu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"y",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/y/y.mp3"
         },
         {id:2,
           text:"hay",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/hay.mp3"
           },
         {id:3,
           text:"soy",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/soy.mp3"
           },
         {id:4,
           text:"yoyo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/yoyo.mp3"
           },
         {id:5,
         text:"joya",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/y/joya.mp3"
         },
         {id:6,
           text:"raya",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/raya.mp3"
           },
         {id:7,
           text:"payaso",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/payaso.mp3"
           },
         {id:8,
           text:"yema",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/yema.mp3"
           },
         {id:9,
           text:"yegua",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/yegua.mp3"
           },  
         {id:10,
           text:"hoyo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/y/hoyo.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"¡Oye! esa es la yema de Maya."
+        text:"¡Oye! esa es la yema de Maya.",
+        sound:"../../audio/y/yor1.mp3"
       },
       {
         id:2,
-        text:"El payaso raya la joya."
+        text:"El payaso raya la joya.",
+        sound:"../../audio/y/yor2.mp3"
       },
       {
         id:3,
-        text:"El rey se cayó en el hoyo."
+        text:"El rey se cayó en el hoyo.",
+        sound:"../../audio/y/yor3.mp3"
       }      
     ]
   },
@@ -1880,76 +1914,79 @@ export const consonantes = [
     silabas:[
         
         { text:"gue",
-          sound:"../../audio/"
+          sound:"../../audio/gu/gue"
         },
         { text:"gui",
-          sound:"../../audio/"
+          sound:"../../audio/gu/gui"
         }
     ],
     palabras:[
         {id:1,
         text:"juguete",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/gu/juguete"
         },
         {id:2,
           text:"guerra",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/guerra"
           },
         {id:3,
           text:"guía",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/guia"
           },
         {id:4,
           text:"guisado",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/guisado"
           },
         {id:5,
         text:"manguera",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/gu/manguera"
         },
         {id:6,
           text:"guitarra",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/guitarra"
           },
         {id:7,
           text:"Miguel",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/Miguel"
           },
         {id:8,
           text:"águila",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/aguila"
           },
         {id:9,
           text:"guijarro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/guijarro"
           },  
         {id:10,
           text:"seguidor",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gu/seguidor"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Guillermo sigue al guía."
+        text:"Guillermo sigue al guía.",
+        sound:"../../audio/gu/guor1"
       },
       {
         id:2,
-        text:"Miguel come guineos."
+        text:"Miguel come guineos.",
+        sound:"../../audio/gu/guor2"
       },
       {
         id:3,
-        text:"Esa águila es de juguete"
+        text:"Esa águila es de juguete",
+        sound:"../../audio/gu/guor3"
       }      
     ]
   },
@@ -1960,61 +1997,65 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"güe",
-          sound:"../../audio/"
+          sound:"../../audio/gü/güe.mp3"
         },
         { text:"guï",
-          sound:"../../audio/"
+          sound:"../../audio/gü/güi.mp3"
         } 
     ],
     palabras:[
         {id:1,
         text:"cigüeña",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/gü/cigüeña.mp3"
         },
         {id:2,
           text:"güero",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gü/güero.mp3"
           },
         {id:3,
           text:"bilingüe",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gü/bilingüe.mp3"
           },
         {id:4,
           text:"güiro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gü/güiro.mp3"
           },
         {id:5,
         text:"pingüino",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/gü/pingüino.mp3"
         },
         {id:6,
           text:"paragüero",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gü/paragüero.mp3"
           },
         {id:7,
           text:"yegüita",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gü/yegüita.mp3"
           }
     ],
     oraciones:[
       {
         id:1,
-        text:"El güero es bilingüe"
+        text:"El güero es bilingüe",
+        sound:"../../audio/gü/guor1.mp3"
+
       },
       {
         id:2,
-        text:"La cigüeña y el pingüino son aves"
+        text:"La cigüeña y el pingüino son aves",
+        sound:"../../audio/gü/guor2.mp3"
       },
       {
         id:3,
-        text:"La yegüita corre en el pasto"
+        text:"La yegüita corre en el pasto",
+        sound:"../../audio/gü/guor3.mp3"
       }      
     ]
   },
@@ -2025,76 +2066,79 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ge",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/ge.mp3"
         },
         { text:"gi",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/gi.mp3"
         }
     ],
     palabras:[
         {id:1,
         text:"imagen",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/gsuave/imagen.mp3"
         },
         {id:2,
           text:"vegetal",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/vegetal.mp3"
           },
         {id:3,
           text:"gemelo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/gemelo.mp3"
           },
         {id:4,
           text:"genio",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/genio.mp3"
           },
         {id:5,
         text:"girasol",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/gsuave/girasol.mp3"
         },
         {id:6,
           text:"magia",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/magia.mp3"
           },
         {id:7,
           text:"página",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/pagina.mp3"
           },
         {id:8,
           text:"energía",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/energia.mp3"
           },
         {id:9,
           text:"gimnasio",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/gimnasia.mp3"
           },  
         {id:10,
           text:"refugio",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/gsuave/refugio.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Germán y su gemelo tienen una urgencía"
+        text:"Germán y su gemelo tienen una urgencía",
+        sound:"../../audio/gsuave/gsor1.mp3"
       },
       {
         id:2,
-        text:"La pagina tiene una imagen de girasol"
+        text:"La pagina tiene una imagen de girasol",
+        sound:"../../audio/gsuave/gsor2.mp3"
       },
       {
         id:3,
-        text:"Ángel tiene mucha energía"
+        text:"Ángel tiene mucha energía",
+        sound:"../../audio/gsuave/gsor3.mp3"
       }      
     ]
   },
@@ -2105,76 +2149,79 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ce",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/ce.mp3"
         },
         { text:"ci",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/ci.mp3"
         } 
     ],
     palabras:[
         {id:1,
         text:"ceja",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/csuave/ceja.mp3"
         },
         {id:2,
           text:"alce",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/alce.mp3"
           },
         {id:3,
           text:"cena",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/cena.mp3"
           },
         {id:4,
           text:"cero",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/cero.mp3"
           },
         {id:5,
         text:"cerca",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/csuave/cerca.mp3"
         },
         {id:6,
           text:"cocina",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/cocina.mp3"
           },
         {id:7,
           text:"bicicleta",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/bicicleta.mp3"
           },
         {id:8,
           text:"cine",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/cine.mp3"
           },
         {id:9,
           text:"cinturón",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/cinturon.mp3"
           },  
         {id:10,
           text:"cuidad",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/csuave/ciudad.mp3"
           }
     ],
     oraciones:[
       {
         id:1,
-        text:"Ceci cocina la cena."
+        text:"Ceci cocina la cena.",
+        sound:"../../audio/csuave/csor1.mp3"
       },
       {
         id:2,
-        text:"Ese cine esta cerca de la ciudad."
+        text:"Ese cine esta cerca de la ciudad.",
+        sound:"../../audio/csuave/csor2.mp3"
       },
       {
         id:3,
-        text:"El cinturón a veces se ensucia."
+        text:"El cinturón a veces se ensucia.",
+        sound:"../../audio/csuave/csor3.mp3"
       }      
     ]
   },
@@ -2185,75 +2232,78 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ka",
-          sound:"../../audio/"
+          sound:"../../audio/k/ka.mp3"
         },
         { text:"ke",
-          sound:"../../audio/"
+          sound:"../../audio/k/ke.mp3"
         },
         { text:"ki",
-          sound:"../../audio/"
+          sound:"../../audio/k/ki.mp3"
         },
         { text:"ko",
-          sound:"../../audio/"
+          sound:"../../audio/k/ko.mp3"
         },      
         { text:"ku",
-          sound:"../../audio/"
+          sound:"../../audio/k/ku.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"kilo",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/k/kilo.mp3"
         },
         {id:2,
           text:"kimono",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/k/kimono.mp3"
           },
         {id:3,
           text:"kiosko",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/k/kiosko.mp3"
           },
         {id:4,
           text:"kayak",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/k/kayak.mp3"
           },
         {id:5,
         text:"karate",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/k/karate.mp3"
         },
         {id:6,
           text:"kinder",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/k/kinder.mp3"
           },
         {id:7,
           text:"mikado",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/k/mikado.mp3"
           },
         {id:8,
           text:"Alaska",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/k/alaska.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Kiko hace karate con un kimono"
+        text:"Kiko hace karate con un kimono",
+        sound:"../../audio/k/kor1.mp3"
       },
       {
         id:2,
-        text:"Voy a Alaska en mi kayak"
+        text:"Voy a Alaska en mi kayak",
+        sound:"../../audio/k/kor2.mp3"
       },
       {
         id:3,
-        text:"En el kinder jugamos mikado"
+        text:"En el kinder jugamos mikado",
+        sound:"../../audio/k/kor3.mp3"
       }      
     ]
   },
@@ -2264,85 +2314,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"za",
-          sound:"../../audio/"
+          sound:"../../audio/z/za.mp3"
         },
         { text:"ze",
-          sound:"../../audio/"
+          sound:"../../audio/z/ze.mp3"
         },
         { text:"zi",
-          sound:"../../audio/"
+          sound:"../../audio/z/zi.mp3"
         },
         { text:"zo",
-          sound:"../../audio/"
+          sound:"../../audio/z/zo.mp3"
         },      
         { text:"zu",
-          sound:"../../audio/"
+          sound:"../../audio/z/zu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"brazo",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/z/brazo.mp3"
         },
         {id:2,
           text:"maíz",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/maiz.mp3"
           },
         {id:3,
           text:"nariz",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/nariz.mp3"
           },
         {id:4,
           text:"pieza",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/pieza.mp3"
           },
         {id:5,
         text:"zebra",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/z/zebra.mp3"
         },
         {id:6,
           text:"lazo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/lazo.mp3"
           },
         {id:7,
           text:"pozo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/pozo.mp3"
           },
         {id:8,
           text:"taza",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/taza.mp3"
           },
         {id:9,
           text:"azucar",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/azucar.mp3"
           },  
         {id:10,
           text:"zorro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/z/zorr.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"El zorro tomó la pieza de caza"
+        text:"El zorro tomó la pieza de caza",
+        sound:"../../audio/z/zor1.mp3"
       },
       {
         id:2,
-        text:"La taza tiene azucar"
+        text:"La taza tiene azucar",
+        sound:"../../audio/z/zor2.mp3"
       },
       {
         id:3,
-        text:"El vestido tiene un lazo azul"
+        text:"El vestido tiene un lazo azul",
+        sound:"../../audio/z/zor3.mp3"
       }      
     ]
   },
@@ -2353,85 +2406,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"xa",
-          sound:"../../audio/"
+          sound:"../../audio/x/xa.mp3"
         },
         { text:"xe",
-          sound:"../../audio/"
+          sound:"../../audio/x/xe.mp3"
         },
         { text:"xi",
-          sound:"../../audio/"
+          sound:"../../audio/x/xi.mp3"
         },
         { text:"xo",
-          sound:"../../audio/"
+          sound:"../../audio/x/xo.mp3"
         },      
         { text:"xu",
-          sound:"../../audio/"
+          sound:"../../audio/x/xu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"taxi",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/x/taxi.mp3"
         },
         {id:2,
           text:"Texas",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/texas.mp3"
           },
         {id:3,
           text:"México",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/mexico.mp3"
           },
         {id:4,
           text:"fenix",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/fenix.mp3"
           },
         {id:5,
         text:"texto",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/x/texto.mp3"
         },
         {id:6,
           text:"xilófono",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/xilofono.mp3"
           },
         {id:7,
           text:"saxofón",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/saxofon.mp3"
           },
         {id:8,
           text:"exámen",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/examen.mp3"
           },
         {id:9,
           text:"galaxia",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/galaxia.mp3"
           },  
         {id:10,
           text:"Xavier",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/x/xavier.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Xavier toca el saxofón"
+        text:"Xavier toca el saxofón",
+        sound:"../../audio/x/xor1.mp3"
       },
       {
         id:2,
-        text:"Viajamos a Texas en taxi"
+        text:"Viajamos a Texas en taxi",
+        sound:"../../audio/x/xor2.mp3"
       },
       {
         id:3,
-        text:"El texto es de una galaxia"
+        text:"El texto es de una galaxia",
+        sound:"../../audio/x/xor3.mp3"
       }      
     ]
   },
@@ -2442,75 +2498,78 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"wa",
-          sound:"../../audio/"
+          sound:"../../audio/w/wa.mp3"
         },
         { text:"we",
-          sound:"../../audio/"
+          sound:"../../audio/w/we.mp3"
         },
         { text:"wi",
-          sound:"../../audio/"
+          sound:"../../audio/w/wi.mp3"
         },
         { text:"wo",
-          sound:"../../audio/"
+          sound:"../../audio/w/wo.mp3"
         },      
         { text:"wu",
-          sound:"../../audio/"
+          sound:"../../audio/w/wu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"Washington",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/w/washington.mp3"
         },
         {id:2,
           text:"kiwi",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/w/kiwi.mp3"
           },
         {id:3,
           text:"sandwich",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/w/sandwich.mp3"
           },
         {id:4,
-          text:"wasabi",
+          text:"walabi",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/w/walabi.mp3"
           },
         {id:5,
         text:"Wendy",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/w/wendy.mp3"
         },
         {id:6,
           text:"Hawai",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/w/hawai.mp3"
           },
         {id:7,
           text:"Malawi",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/w/malawi.mp3"
           },
         {id:8,
           text:"waterpolo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/w/waterpolo.mp3"
           }
     ],
     oraciones:[
       {
         id:1,
-        text:"Wendy viaja a Malawi"
+        text:"Wendy viaja a Malawi",
+        sound:"../../audio/w/wor1.mp3"
       },
       {
         id:2,
-        text:"Walter juega waterpolo en Hawai"
+        text:"Walter juega waterpolo en Hawai",
+        sound:"../../audio/w/wor2.mp3"
       },
       {
         id:3,
-        text:"Hay sanwiches con kiwi para el almuerzo"
+        text:"Hay sanwiches con kiwi para el almuerzo",
+        sound:"../../audio/w/wor3.mp3"
       }      
     ]
   },
