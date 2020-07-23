@@ -5,85 +5,88 @@ export const consonantes = [
     mainP:"../../img/mom50.png",
     silabas:[
         { text:"ma",
-          sound:"../../audio/m/silabas/ma.mp3"
+          sound:"../../audio/m/ma.mp3"
         },
         { text:"me",
-          sound:"../../audio/m/silabas/me.mp3"
+          sound:"../../audio/m/me.mp3"
         },
         { text:"mi",
-          sound:"../../audio/m/silabas/mi.mp3"
+          sound:"../../audio/m/mi.mp3"
         },
         { text:"mo",
-          sound:"../../audio/m/silabas/mo.mp3"
+          sound:"../../audio/m/mo.mp3"
         },      
         { text:"mu",
-          sound:"../../audio/m/silabas/mu.mp3"
+          sound:"../../audio/m/mu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"mamá",
         pic:"the url",
-        sound:"../../audio/palabras/mama.m4a"
+        sound:"../../audio/m/mama.mp3"
         },
         {id:2,
           text:"Memo",
           pic:"the url",
-          sound:"../../audio/palabras/memo.m4a"
+          sound:"../../audio/m/memo.mp3"
           },
           {id:3,
             text:"Mima",
             pic:"the url",
-            sound:"../../audio/palabras/mima.m4a"
+            sound:"../../audio/m/mima.mp3"
             },
             {id:4,
               text:"amo",
               pic:"the url",
-              sound:"../../audio/palabras/amo.m4a"
+              sound:"../../audio/m/amo.mp3"
               },
             {id:5,
             text:"mio",
             pic:"the url",
-            sound:"../../audio/palabras/mio.m4a"
+            sound:"../../audio/m/mio.mp3"
             },
             {id:6,
               text:"Ema",
               pic:"the url",
-              sound:"../../audio/palabras/ema.m4a"
+              sound:"../../audio/m/ema.mp3"
               },
             {id:7,
               text:"mimo",
               pic:"the url",
-              sound:"../../audio/palabras/mimo.m4a"
+              sound:"../../audio/m/mimo.mp3"
               },
             {id:8,
               text:"ama",
               pic:"the url",
-              sound:"../../audio/palabras/ama.m4a"
+              sound:"../../audio/m/ama.mp3"
               },
             {id:9,
               text:"Mimi",
               pic:"the url",
-              sound:"../../audio/palabras/mama.m4a"
+              sound:"../../audio/m/mimi.mp3"
               },  
             {id:10,
               text:"mia",
               pic:"the url",
-              sound:"../../audio/palabras/mia.m4a"
+              sound:"../../audio/m/mia.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:"Ema me mima."
+        text:"Ema me mima.",
+        sound:"../../audio/m/mor1.mp3"
       },
       {
         id:2,
-        text:"Mi mamá me ama."
+        text:"Mi mamá me ama.",
+        sound:"../../audio/m/mor2.mp3"
       },
       {
         id:3,
-        text:"Memo ama a mamá."
+        text:"Memo ama a mamá.",
+        sound:"../../audio/m/mor3.mp3"
       }      
     ]
   },
@@ -93,85 +96,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"sa",
-          sound:"../../audio/"
+          sound:"../../audio/s/sa.mp3"
         },
         { text:"se",
-          sound:"../../audio/"
+          sound:"../../audio/s/se.mp3"
         },
         { text:"si",
-          sound:"../../audio/"
+          sound:"../../audio/s/si.mp3"
         },
         { text:"so",
-          sound:"../../audio/"
+          sound:"../../audio/s/so.mp3"
         },      
         { text:"su",
-          sound:"../../audio/"
+          sound:"../../audio/s/su.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"Susi",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/s/susi.mp3"
         },
         {id:2,
           text:"suma",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/s/suma.mp3"
           },
           {id:3,
             text:"así",
             pic:"the url",
-            sound:"../../audio/"
+            sound:"../../audio/s/asi.mp3"
             },
             {id:4,
               text:"mesa",
               pic:"the url",
-              sound:"../../audio/"
+              sound:"../../audio/s/mesa.mp3"
               },
             {id:5,
             text:"seis",
             pic:"the url",
-            sound:"../../audio/"
+            sound:"../../audio/s/seis.mp3"
             },
             {id:6,
               text:"somos",
               pic:"the url",
-              sound:"../../audio/"
+              sound:"../../audio/s/somos.mp3"
               },
             {id:7,
               text:"Isa",
               pic:"the url",
-              sound:"../../audio/"
+              sound:"../../audio/s/isa.mp3"
               },
             {id:8,
               text:"sus",
               pic:"the url",
-              sound:"../../audio/"
+              sound:"../../audio/s/sus.mp3"
               },
             {id:9,
               text:"ese",
               pic:"the url",
-              sound:"../../audio/"
+              sound:"../../audio/s/ese.mp3"
               },  
             {id:10,
-              text:"mesa",
+              text:"oso",
               pic:"the url",
-              sound:"../../audio/"
+              sound:"../../audio/s/oso.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:"Sisi se asoma."
+        text:"Sisi se asoma.",
+        sound:"../../audio/s/sor1.mp3"
       },
       {
         id:2,
-        text:"Ese oso es Memo."
+        text:"Ese oso es Memo.",
+        sound:"../../audio/s/sor2.mp3"
       },
       {
         id:3,
-        text:"Ema suma seis."
+        text:"Ema suma seis.",
+        sound:"../../audio/s/sor3.mp3"
       }      
     ]
   },
@@ -181,85 +187,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ta",
-          sound:"../../audio/"
+          sound:"../../audio/t/ta.mp3"
         },
         { text:"te",
-          sound:"../../audio/"
+          sound:"../../audio/t/te.mp3"
         },
         { text:"ti",
-          sound:"../../audio/"
+          sound:"../../audio/t/ti.mp3"
         },
         { text:"to",
-          sound:"../../audio/"
+          sound:"../../audio/t/to.mp3"
         },      
         { text:"tu",
-          sound:"../../audio/"
+          sound:"../../audio/t/tu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"toma",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/t/toma.mp3"
         },
         {id:2,
           text:"Tito",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/tito.mp3"
           },
         {id:3,
           text:"Teo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/teo.mp3"
           },
         {id:4,
           text:"tomate",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/tomate.mp3"
           },
         {id:5,
         text:"tos",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/t/tos.mp3"
         },
         {id:6,
           text:"esta",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/esta.mp3"
           },
         {id:7,
           text:"mete",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/mete.mp3"
           },
         {id:8,
           text:"tío",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/tio.mp3"
           },
         {id:9,
           text:"siete",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/siete.mp3"
           },  
         {id:10,
           text:"susto",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/t/susto.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Tomas toma té."
+        text:"Tomas toma té.",
+        sound:"../../audio/t/tor1.mp3"
       },
       {
         id:2,
-        text:"Ese tomate es mio."
+        text:"Ese tomate es mio.",
+        sound:"../../audio/t/tor2.mp3"
       },
       {
         id:3,
-        text:"Teo asusta a Tita."
+        text:"Teo asusta a Tita.",
+        sound:"../../audio/t/tor3.mp3"
       }      
     ]
   },
@@ -269,85 +278,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"la",
-          sound:"../../audio/"
+          sound:"../../audio/l/la.mp3"
         },
         { text:"le",
-          sound:"../../audio/"
+          sound:"../../audio/l/le.mp3"
         },
         { text:"li",
-          sound:"../../audio/"
+          sound:"../../audio/l/li.mp3"
         },
         { text:"lo",
-          sound:"../../audio/"
+          sound:"../../audio/l/lo.mp3"
         },      
         { text:"lu",
-          sound:"../../audio/"
+          sound:"../../audio/l/lu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"lata",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/l/lata.mp3"
         },
         {id:2,
           text:"leo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/leo.mp3"
           },
         {id:3,
           text:"lista",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/lista.mp3"
           },
         {id:4,
           text:"loma",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/loma.mp3"
           },
         {id:5,
-        text:"Lulu",
+        text:"Lulú",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/l/lulu.mp3"
         },
         {id:6,
           text:"Ala",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/ala.mp3"
           },
         {id:7,
           text:"ola",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/ola.mp3"
           },
         {id:8,
           text:"elote",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/elote.mp3"
           },
         {id:9,
           text:"olian",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/olian.mp3"
           },  
         {id:10,
           text:"liso",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/l/liso.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Luís olió el elote."
+        text:"Luís olió el elote.",
+        sound:"../../audio/l/lor1.mp3"
       },
       {
         id:2,
-        text:"El laso es liso."
+        text:"El laso es liso.",
+        sound:"../../audio/l/lor2.mp3"
       },
       {
         id:3,
-        text:"Lulú mete la última lata."
+        text:"Lulú mete la última lata.",
+        sound:"../../audio/l/lor3.mp3"
       }      
     ]
   },
@@ -357,85 +369,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ra",
-          sound:"../../audio/"
+          sound:"../../audio/r/ra.mp3"
         },
         { text:"re",
-          sound:"../../audio/"
+          sound:"../../audio/r/re.mp3"
         },
         { text:"ri",
-          sound:"../../audio/"
+          sound:"../../audio/r/ri.mp3"
         },
         { text:"ro",
-          sound:"../../audio/"
+          sound:"../../audio/r/ro.mp3"
         },      
         { text:"ru",
-          sound:"../../audio/"
+          sound:"../../audio/r/ru.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"rosa",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/r/rosa.mp3"
         },
         {id:2,
           text:"rama",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/rama.mp3"
           },
         {id:3,
           text:"torta",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/torta.mp3"
           },
         {id:4,
           text:"tarro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/tarro.mp3"
           },
         {id:5,
         text:"risa",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/r/risa.mp3"
         },
         {id:6,
           text:"rota",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/rota.mp3"
           },
         {id:7,
           text:"tierra",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/tierra.mp3"
           },
         {id:8,
           text:"río",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/rio.mp3"
           },
         {id:9,
           text:"rata",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/rata.mp3"
           },  
         {id:10,
           text:"remo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/r/remo.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Remi tiro la rama a la tierra."
+        text:"Remi tiro la rama a la tierra.",
+        sound:"../../audio/r/ror1.mp3"
       },
       {
         id:2,
-        text:"Rita toma el arete rosa."
+        text:"Rita toma el arete rosa.",
+        sound:"../../audio/r/ror2.mp3",
       },
       {
         id:3,
-        text:"El artista se rie raro."
+        text:"El artista se rie raro.",
+        sound:"../../audio/r/ror3.mp3"
       }      
     ]
   },
@@ -446,85 +461,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"pa",
-          sound:"../../audio/"
+          sound:"../../audio/p/pa.mp3"
         },
         { text:"pe",
-          sound:"../../audio/"
+          sound:"../../audio/p/pe.mp3"
         },
         { text:"pi",
-          sound:"../../audio/"
+          sound:"../../audio/p/pi.mp3"
         },
         { text:"po",
-          sound:"../../audio/"
+          sound:"../../audio/p/po.mp3"
         },      
         { text:"pu",
-          sound:"../../audio/"
+          sound:"../../audio/p/pu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"papá",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/p/papa.mp3"
         },
         {id:2,
           text:"papel",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/papel.mp3"
           },
         {id:3,
           text:"puma",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/puma.mp3"
           },
         {id:4,
           text:"sopa",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/sopa.mp3"
           },
         {id:5,
-        text:"",
+        text:"sapo",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/p/sapo.mp3"
         },
         {id:6,
           text:"perro",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/perro.mp3"
           },
         {id:7,
           text:"pesa",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/pesa.mp3"
           },
         {id:8,
           text:"piso",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/piso.mp3"
           },
         {id:9,
           text:"pila",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/pila.mp3"
           },  
         {id:10,
           text:"poste",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/p/poste.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"El pato pisa la mesa."
+        text:"El pato pisa la mesa.",
+        sound:"../../audio/p/por1.mp3"
       },
       {
         id:2,
-        text:"Pita limpia la ropa."
+        text:"Pita limpia la ropa.",
+        sound:"../../audio/p/por2.mp3"
       },
       {
         id:3,
-        text:"Pepe pide papas, papa pide sopa."
+        text:"Pepe pide papas, papa pide sopa.",
+        sound:"../../audio/p/por3.mp3"
       }      
     ]
   },
@@ -535,85 +553,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"na",
-          sound:"../../audio/"
+          sound:"../../audio/n/na.mp3"
         },
         { text:"ne",
-          sound:"../../audio/"
+          sound:"../../audio/n/ne.mp3"
         },
         { text:"ni",
-          sound:"../../audio/"
+          sound:"../../audio/n/ni.mp3"
         },
         { text:"no",
-          sound:"../../audio/"
+          sound:"../../audio/n/no.mp3"
         },      
         { text:"nu",
-          sound:"../../audio/"
+          sound:"../../audio/n/nu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"una",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/n/una.mp3"
         },
         {id:2,
           text:"rana",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/rana.mp3"
           },
         {id:3,
           text:"nena",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/nena.mp3"
           },
         {id:4,
           text:"tina",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/tina.mp3"
           },
         {id:5,
         text:"nota",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/n/nota.mp3"
         },
         {id:6,
           text:"salón",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/salon.mp3"
           },
         {id:7,
           text:"león",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/leon.mp3"
           },
         {id:8,
           text:"pino",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/pino.mp3"
           },
         {id:9,
           text:"tiene",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/tiene.mp3"
           },  
         {id:10,
           text:"tanto",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/n/tanto.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Nora tiene tanto tino. "
+        text:"Nora tiene tanto tino. ",
+        sound:"../../audio/n/nor1.mp3"
       },
       {
         id:2,
-        text:"Mi nana pinta una luna."
+        text:"Mi nana pinta una luna.",
+        sound:"../../audio/n/nor2.mp3"
       },
       {
         id:3,
-        text:"Unas ranas salen solas."
+        text:"Unas ranas salen solas.",
+        sound:"../../audio/n/nor3.mp3"
       }      
     ]
   },
@@ -624,79 +645,82 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"ca",
-          sound:"../../audio/"
+          sound:"../../audio/c/ca.mp3"
         },
         { text:"co",
-          sound:"../../audio/"
+          sound:"../../audio/c/co.mp3"
         },
         { text:"cu",
-          sound:"../../audio/"
+          sound:"../../audio/c/cu.mp3"
         }       
     ],
     palabras:[
         {id:1,
         text:"casa",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/c/casa.mp3"
         },
         {id:2,
           text:"cama",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/cama.mp3"
           },
         {id:3,
           text:"cosa",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/cosa.mp3"
           },
         {id:4,
           text:"poco",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/poco.mp3"
           },
         {id:5,
         text:"coco",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/c/coco.mp3"
         },
         {id:6,
           text:"cuete",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/cuete.mp3"
           },
         {id:7,
           text:"cuarto",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/cuarto.mp3"
           },
         {id:8,
           text:"mosca",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/mosca.mp3"
           },
         {id:9,
           text:"taco",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/taco.mp3"
           },  
         {id:10,
           text:"camisa",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/c/camisa.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Cuca cose la camisa."
+        text:"Cuca cose la camisa.",
+        sound:"../../audio/c/cor1.mp3"
       },
       {
         id:2,
-        text:"Carlos cura a los animales roncos."
+        text:"Carlos cura los animales roncos.",
+        sound:"../../audio/c/cor2.mp3"
       },
       {
         id:3,
-        text:"Carmen corre con la canasta de comida."
+        text:"Carmen corre con la canasta de comida.",
+        sound:"../../audio/c/cor3.mp3"
       }      
     ]
   },
@@ -707,85 +731,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"da",
-          sound:"../../audio/"
+          sound:"../../audio/d/da"
         },
         { text:"de",
-          sound:"../../audio/"
+          sound:"../../audio/d/de"
         },
         { text:"di",
-          sound:"../../audio/"
+          sound:"../../audio/d/di"
         },
         { text:"do",
-          sound:"../../audio/"
+          sound:"../../audio/d/do"
         },      
         { text:"du",
-          sound:"../../audio/"
+          sound:"../../audio/d/du"
         }  
     ],
     palabras:[
         {id:1,
         text:"dado",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/d/dado"
         },
         {id:2,
           text:"soda",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/soda"
           },
         {id:3,
           text:"rueda",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/rueda"
           },
         {id:4,
           text:"dedo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/dedo"
           },
         {id:5,
         text:"duende",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/d/duende"
         },
         {id:6,
           text:"ducha",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/ducha"
           },
         {id:7,
           text:"dedo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/dedo"
           },
         {id:8,
           text:"diente",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/diente"
           },
         {id:9,
           text:"día",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/dia"
           },  
         {id:10,
           text:"sandía",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/d/sandia"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Diana da sandía a todos."
+        text:"Diana da sandía a todos.",
+        sound:"../../audio/d/dor1"
       },
       {
         id:2,
-        text:"Dani desperto con dolor de diente."
+        text:"Dani desperto con dolor de diente.",
+        sound:"../../audio/d/dor2"
       },
       {
         id:3,
-        text:"Dennis pierde el pandero"
+        text:"Dennis pierde el pandero",
+        sound:"../../audio/d/dor3"
       }      
     ]
   },
@@ -796,85 +823,88 @@ export const consonantes = [
     mainP:"niceurl",
     silabas:[
         { text:"va",
-          sound:"../../audio/"
+          sound:"../../audio/v/va.mp3"
         },
         { text:"ve",
-          sound:"../../audio/"
+          sound:"../../audio/v/ve.mp3"
         },
         { text:"vi",
-          sound:"../../audio/"
+          sound:"../../audio/v/vi.mp3"
         },
         { text:"vo",
-          sound:"../../audio/"
+          sound:"../../audio/v/vo.mp3"
         },      
         { text:"vu",
-          sound:"../../audio/"
+          sound:"../../audio/v/vu.mp3"
         }  
     ],
     palabras:[
         {id:1,
         text:"vaca",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/v/vaca.mp3"
         },
         {id:2,
           text:"vaso",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/vaso.mp3"
           },
         {id:3,
           text:"nieve",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/nieve.mp3"
           },
         {id:4,
           text:"venado",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/venado.mp3"
           },
         {id:5,
         text:"violín",
         pic:"the url",
-        sound:"../../audio/"
+        sound:"../../audio/v/violin.mp3"
         },
         {id:6,
           text:"curva",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/curva.mp3"
           },
         {id:7,
           text:"verde",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/verde.mp3"
           },
         {id:8,
           text:"pavo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/pavo.mp3"
           },
         {id:9,
           text:"selva",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/selva.mp3"
           },  
         {id:10,
           text:"polvo",
           pic:"the url",
-          sound:"../../audio/"
+          sound:"../../audio/v/polvo.mp3"
           },
     ],
     oraciones:[
       {
         id:1,
-        text:"Victoria vive en la selva verde."
+        text:"Victoria vive en la selva verde.",
+        sound:"../../audio/v/vor1.mp3"
       },
       {
         id:2,
-        text:"El carro viene por la curva "
+        text:"El carro viene por la curva ",
+        sound:"../../audio/v/vor2.mp3"
       },
       {
         id:3,
-        text:"Viviana lava la ropa con polvo"
+        text:"Viviana lava la ropa con polvo",
+        sound:"../../audio/v/vor3.mp3"
       }      
     ]
   },
@@ -1319,7 +1349,7 @@ export const consonantes = [
       },
       {
         id:3,
-        text:"El pajaro marino se para en la arena"
+        text:"El pájaro marino se para en la arena"
       }      
     ]
   },
@@ -1817,7 +1847,7 @@ export const consonantes = [
           sound:"../../audio/"
           },
         {id:9,
-          text:"",
+          text:"yegua",
           pic:"the url",
           sound:"../../audio/"
           },  
@@ -1915,7 +1945,7 @@ export const consonantes = [
       },
       {
         id:2,
-        text:"Miguel pone los guineos en las manguitas."
+        text:"Miguel come guineos."
       },
       {
         id:3,
