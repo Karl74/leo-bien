@@ -650,7 +650,7 @@ export const consonantes = [
     lt:"c",
     head:"Cc",
     word:"casa",
-    mainP:"niceurl",
+    mainP:"../../img/casa.png",
     silabas:[
         { text:"ca",
           sound:"../../audio/c/ca.mp3"
@@ -737,7 +737,7 @@ export const consonantes = [
     lt:"d",
     head:"Dd",
     word:"dedo",
-    mainP:"niceurl",
+    mainP:"../../img/dedo.png",
     silabas:[
         { text:"da",
           sound:"../../audio/d/da.mp3"
@@ -830,7 +830,7 @@ export const consonantes = [
     lt:"v",
     head:"Vv",
     word:"vaca",
-    mainP:"niceurl",
+    mainP:"../../img/vaca.png",
     silabas:[
         { text:"va",
           sound:"../../audio/v/va.mp3"
@@ -923,7 +923,7 @@ export const consonantes = [
     lt:"f",
     head:"Ff",
     word:"foco",
-    mainP:"niceurl",
+    mainP:"../../img/foco.png",
     silabas:[
         { text:"fa",
           sound:"../../audio/f/fa.mp3"
@@ -1016,7 +1016,7 @@ export const consonantes = [
     lt:"b",
     head:"Bb",
     word:"burro",
-    mainP:"niceurl",
+    mainP:"../../img/burro.png",
     silabas:[
         { text:"ba",
           sound:"../../audio/b/ba.mp3"
@@ -1109,7 +1109,7 @@ export const consonantes = [
     lt:"j",
     head:"Jj",
     word:"jabón",
-    mainP:"niceurl",
+    mainP:"../../img/jabon.png",
     silabas:[
         { text:"ja",
           sound:"../../audio/j/ja.mp3"
@@ -1201,8 +1201,8 @@ export const consonantes = [
   {
     lt:"ñ",
     head:"Ññ",
-    word:"ñandú",
-    mainP:"niceurl",
+    word:"ñu",
+    mainP:"../../img/gnu.jpg",
     silabas:[
         { text:"ña",
           sound:"../../audio/ñ/ña.mp3"
@@ -1295,7 +1295,7 @@ export const consonantes = [
     lt:"r suave",
     word:"aro",
     head:"r",
-    mainP:"niceurl",
+    mainP:"../../img/aro.png",
     silabas:[
         { text:"ra",
           sound:"../../audio/rsuave/ra.mp3"
@@ -1388,7 +1388,7 @@ export const consonantes = [
     lt:"g",
     head:"Gg",
     word:"gato",
-    mainP:"niceurl",
+    mainP:"../../img/gato.png",
     silabas:[
         { text:"ga",
           sound:"../../audio/g/ga.mp3"
@@ -1475,7 +1475,7 @@ export const consonantes = [
     lt:"h",
     word:"hoja",
     head:"Hh",
-    mainP:"niceurl",
+    mainP:"../../img/hoja.png",
     silabas:[
         { text:"ha",
           sound:"../../audio/h/ha.mp3"
@@ -1568,7 +1568,7 @@ export const consonantes = [
     lt:"ch",
     head:"Ch",
     word:"chocolate",
-    mainP:"niceurl",
+    mainP:"../../img/chocolate.png",
     silabas:[
         { text:"cha",
           sound:"../../audio/ch/cha.mp3"
@@ -1662,7 +1662,7 @@ export const consonantes = [
     lt:"Ll",
     head:"Ll",
     word:"llave",
-    mainP:"niceurl",
+    mainP:"../../img/llaves.png",
     silabas:[
         { text:"lla",
           sound:"../../audio/ll/lla.mp3"
@@ -1755,7 +1755,7 @@ export const consonantes = [
     lt:"q",
     head:"Qq",
     word:"queso",
-    mainP:"niceurl",
+    mainP:"../../img/queso.png",
     silabas:[
         { text:"que",
           sound:"../../audio/q/que.mp3"
@@ -1839,7 +1839,7 @@ export const consonantes = [
     lt:"y",
     head:"Yy",
     word:"yoyo",
-    mainP:"niceurl",
+    mainP:"../../img/yoyo.png",
     silabas:[
         { text:"ya",
           sound:"../../audio/y/ya.mp3"
@@ -1932,7 +1932,7 @@ export const consonantes = [
     lt:"gue",
     word:"guitarra",
     head:"gue",
-    mainP:"niceurl",
+    mainP:"../../img/guitar.png",
     silabas:[
         
         { text:"gue",
@@ -2017,7 +2017,7 @@ export const consonantes = [
     lt:"güe güi",
     head:"güe",
     word:"pingüino",
-    mainP:"niceurl",
+    mainP:"../../img/pinguino.png",
     silabas:[
         { text:"güe",
           sound:"../../audio/gü/güe.mp3"
@@ -2087,7 +2087,7 @@ export const consonantes = [
     lt:"ge gi",
     word:"girasol",
     head:"ge",
-    mainP:"niceurl",
+    mainP:"../../img/girasol.png",
     silabas:[
         { text:"ge",
           sound:"../../audio/gsuave/ge.mp3"
@@ -2171,7 +2171,7 @@ export const consonantes = [
     lt:"ce ci",
     word:"cepillo",
     head:"ce",
-    mainP:"niceurl",
+    mainP:"../../img/cepillo.png",
     silabas:[
         { text:"ce",
           sound:"../../audio/csuave/ce.mp3"
@@ -2253,9 +2253,9 @@ export const consonantes = [
 
   {
     lt:"k",
-    word:"cepillo",
+    word:"Koala",
     head:"Kk",
-    mainP:"niceurl",
+    mainP:"../../img/koala.png",
     silabas:[
         { text:"ka",
           sound:"../../audio/k/ka.mp3"
@@ -2338,7 +2338,7 @@ export const consonantes = [
     lt:"z",
     word:"zapato",
     head:"Zz",
-    mainP:"niceurl",
+    mainP:"../../img/zapato.png",
     silabas:[
         { text:"za",
           sound:"../../audio/z/za.mp3"
@@ -2431,7 +2431,7 @@ export const consonantes = [
     lt:"x",
     word:"xilófono",
     head:"Xx",
-    mainP:"niceurl",
+    mainP:"../../img/zapato.png",
     silabas:[
         { text:"xa",
           sound:"../../audio/x/xa.mp3"
@@ -2524,7 +2524,7 @@ export const consonantes = [
     lt:"w",
     word:"Wendy",
     head:"Ww",
-    mainP:"niceurl",
+    mainP:"../../img/wendy.png",
     silabas:[
         { text:"wa",
           sound:"../../audio/w/wa.mp3"
