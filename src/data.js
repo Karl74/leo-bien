@@ -2431,7 +2431,7 @@ export const consonantes = [
     lt:"x",
     word:"xilófono",
     head:"Xx",
-    mainP:"../../img/zapato.png",
+    mainP:"../../img/xilofono.png",
     silabas:[
         { text:"xa",
           sound:"../../audio/x/xa.mp3"

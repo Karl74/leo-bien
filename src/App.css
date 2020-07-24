@@ -76,3 +76,9 @@ body {
   top:35%;
 
 }
+
+.pictureFrame {
+  display: flex;
+  align-items: center;
+
+}
