@@ -9,7 +9,7 @@ export default function Consonantes() {
         <AppConsumer>
           {value=>{
             return (value.dataConsonantes.map((letter)=>
-                <LetterCardMenu key={letter.lt} cardText= {letter.head}
+                <LetterCardMenu key={letter.lt}
                 letter={letter} link="consonantes"
                   action = {value.loadConsonant}
                 />
