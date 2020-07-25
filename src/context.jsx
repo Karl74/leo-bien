@@ -2,6 +2,7 @@
 import React, { Component } from 'react'
 import {consonantes, currentLesson} from "./data.js" 
 import {vocalesdata, randomImg} from "./dataVocales.js"
+import {doubleConsonants} from "./dataDobleCons.js"
 
 const AppContext = React.createContext()
 
@@ -13,6 +14,7 @@ class AppProvider extends Component {
     onDisplay:[],
     slideIndex:0,
     dataVocales:vocalesdata,
+    doubleConsonants:doubleConsonants,
     practiceMode:false,
     quizzAnswers:[],
     modalOpen:false,
