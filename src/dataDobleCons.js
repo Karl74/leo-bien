@@ -1,8 +1,8 @@
 export const doubleConsonants = [
   {
-    lt:"",
-    head:"",
-    word:"",
+    lt:"tr",
+    head:"tr",
+    word:"tren",
     mainP:"../../img/.png",
     silabas:[
         { text:"tra",
@@ -23,71 +23,71 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"triángulo",
         pic:"the url",
-        sound:"../../audio/tr/.mp3"
+        sound:"../../audio/tr/triángulo.mp3"
         },
         {id:2,
-          text:"",
+          text:"estrella",
           pic:"the url",
-          sound:"../../audio/tr/.mp3"
+          sound:"../../audio/tr/estrella.mp3"
           },
           {id:3,
-            text:"",
+            text:"trenza",
             pic:"the url",
-            sound:"../../audio/tr/.mp3"
+            sound:"../../audio/tr/trenza.mp3"
             },
             {id:4,
-              text:"",
+              text:"nutria",
               pic:"the url",
-              sound:"../../audio/tr/.mp3"
+              sound:"../../audio/tr/nutria.mp3"
               },
             {id:5,
-            text:"",
+            text:"cuatro",
             pic:"the url",
-            sound:"../../audio/tr/.mp3"
+            sound:"../../audio/tr/cuatro.mp3"
             },
             {id:6,
-              text:"",
+              text:"trigo",
               pic:"the url",
-              sound:"../../audio/tr/.mp3"
+              sound:"../../audio/tr/trigo.mp3"
               },
             {id:7,
-              text:"",
+              text:"centro",
               pic:"the url",
-              sound:"../../audio/tr/.mp3"
+              sound:"../../audio/tr/centro.mp3"
               },
             {id:8,
-              text:"",
+              text:"ostra",
               pic:"the url",
-              sound:"../../audio/tr/.mp3"
+              sound:"../../audio/tr/ostra.mp3"
               },
             {id:9,
-              text:"",
+              text:"letra",
               pic:"the url",
-              sound:"../../audio/tr/.mp3"
+              sound:"../../audio/tr/letra.mp3"
               },  
             {id:10,
-              text:"",
+              text:"trompo",
               pic:"the url",
-              sound:"../../audio/tr/.mp3"
+              sound:"../../audio/tr/trompo.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
-        sound:"../../audio/tr/or1.mp3"
+        text:"La nutria truena una ostra.",
+        sound:"../../audio/tr/tror1.mp3"
       },
       {
         id:2,
-        text:".",
-        sound:"../../audio/tr/or2.mp3"
+        text:"Cuatro gatos tragan un trozo de carne.",
+        sound:"../../audio/tr/tror2.mp3"
       },
       {
         id:3,
-        text:".",
-        sound:"../../audio/tr/or3.mp3"
+        text:"Trini trae un trompo nuevo.",
+        sound:"../../audio/tr/tror3.mp3"
       }      
     ]
   },
@@ -95,7 +95,7 @@ export const doubleConsonants = [
   {
     lt:"bl",
     head:"bl",
-    word:"",
+    word:"blanco",
     mainP:"../../img/.png",
     silabas:[
         { text:"bla",
@@ -116,163 +116,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"mueble",
         pic:"the url",
-        sound:"../../audio/bl/.mp3"
+        sound:"../../audio/bl/mueble.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"tabla",
           pic:"the url",
-          sound:"../../audio/bl/.mp3"
+          sound:"../../audio/bl/tabla.mp3"
           },
           {id:3,
-            text:"",
+            text:"amable",
             pic:"the url",
-            sound:"../../audio/bl/.mp3"
+            sound:"../../audio/bl/amable.mp3"
             },
             {id:4,
-              text:"",
+              text:"nublado",
               pic:"the url",
-              sound:"../../audio/bl/.mp3"
+              sound:"../../audio/bl/nublado.mp3"
               },
             {id:5,
-            text:"",
+            text:"blusa",
             pic:"the url",
-            sound:"../../audio/bl/.mp3"
+            sound:"../../audio/bl/blusa.mp3"
             },
             {id:6,
-              text:"",
+              text:"doble",
               pic:"the url",
-              sound:"../../audio/bl/.mp3"
+              sound:"../../audio/bl/doble.mp3"
               },
             {id:7,
-              text:"",
+              text:"pueblo",
               pic:"the url",
-              sound:"../../audio/bl/.mp3"
+              sound:"../../audio/bl/pueblo.mp3"
               },
             {id:8,
-              text:"",
+              text:"blando",
               pic:"the url",
-              sound:"../../audio/bl/.mp3"
+              sound:"../../audio/bl/blando.mp3"
               },
             {id:9,
-              text:"",
+              text:"blanco",
               pic:"the url",
-              sound:"../../audio/bl/.mp3"
+              sound:"../../audio/bl/blanco.mp3"
               },  
             {id:10,
-              text:"",
+              text:"bloque",
               pic:"the url",
-              sound:"../../audio/bl/.mp3"
+              sound:"../../audio/bl/bloque.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
-        sound:"../../audio/bl/or1.mp3"
-      },
-      {
-        id:2,
-        text:".",
-        sound:"../../audio/bl/or2.mp3"
-      },
-      {
-        id:3,
-        text:".",
-        sound:"../../audio/bl/or3.mp3"
-      }      
-    ]
-  },
-
-  {
-    lt:"bl",
-    head:"bl",
-    word:"",
-    mainP:"../../img/.png",
-    silabas:[
-        { text:"bla",
-          sound:"../../audio/bl/bla.mp3"
-        },
-        { text:"ble",
-          sound:"../../audio/bl/ble.mp3"
-        },
-        { text:"bli",
-          sound:"../../audio/bl/bli.mp3"
-        },
-        { text:"blo",
-          sound:"../../audio/bl/blo.mp3"
-        },      
-        { text:"blu",
-          sound:"../../audio/bl/blu.mp3"
-        }  
-    ],
-    palabras:[
-        {id:1,
-        text:"",
-        pic:"the url",
-        sound:"../../audio/bl/.mp3"
-        },
-        {id:2,
-          text:"Memo",
-          pic:"the url",
-          sound:"../../audio/bl/.mp3"
-          },
-          {id:3,
-            text:"",
-            pic:"the url",
-            sound:"../../audio/bl/.mp3"
-            },
-            {id:4,
-              text:"",
-              pic:"the url",
-              sound:"../../audio/bl/.mp3"
-              },
-            {id:5,
-            text:"",
-            pic:"the url",
-            sound:"../../audio/bl/.mp3"
-            },
-            {id:6,
-              text:"",
-              pic:"the url",
-              sound:"../../audio/bl/.mp3"
-              },
-            {id:7,
-              text:"",
-              pic:"the url",
-              sound:"../../audio/bl/.mp3"
-              },
-            {id:8,
-              text:"",
-              pic:"the url",
-              sound:"../../audio/bl/.mp3"
-              },
-            {id:9,
-              text:"",
-              pic:"the url",
-              sound:"../../audio/bl/.mp3"
-              },  
-            {id:10,
-              text:"",
-              pic:"the url",
-              sound:"../../audio/bl/.mp3"
-              },
-    ],
-    oraciones:[
-      {
-        id:1,
-        text:".",
+        text:"Blanca es amable.",
         sound:"../../audio/bl/blor1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Blas dobla el bloque.",
         sound:"../../audio/bl/blor2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"La tabla del mueble se doblo.",
         sound:"../../audio/bl/blor3.mp3"
       }      
     ]
@@ -281,7 +188,7 @@ export const doubleConsonants = [
   {
     lt:"br",
     head:"br",
-    word:"",
+    word:"brocha",
     mainP:"../../img/.png",
     silabas:[
         { text:"bra",
@@ -302,70 +209,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"brazo",
         pic:"the url",
-        sound:"../../audio/br/.mp3"
+        sound:"../../audio/br/brazo.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"brillo",
           pic:"the url",
-          sound:"../../audio/br/.mp3"
+          sound:"../../audio/br/brillo.mp3"
           },
           {id:3,
-            text:"",
+            text:"broma",
             pic:"the url",
-            sound:"../../audio/br/.mp3"
+            sound:"../../audio/br/broma.mp3"
             },
             {id:4,
-              text:"",
+              text:"bruja",
               pic:"the url",
-              sound:"../../audio/br/.mp3"
+              sound:"../../audio/br/bruja.mp3"
               },
             {id:5,
-            text:"",
+            text:"brocha",
             pic:"the url",
-            sound:"../../audio/br/.mp3"
+            sound:"../../audio/br/brocha.mp3"
             },
             {id:6,
-              text:"",
+              text:"Brasil",
               pic:"the url",
-              sound:"../../audio/br/.mp3"
+              sound:"../../audio/br/Brasil.mp3"
               },
             {id:7,
-              text:"",
+              text:"sobre",
               pic:"the url",
-              sound:"../../audio/br/.mp3"
+              sound:"../../audio/br/sobre.mp3"
               },
             {id:8,
-              text:"",
+              text:"lumbre",
               pic:"the url",
-              sound:"../../audio/br/.mp3"
+              sound:"../../audio/br/lumbre.mp3"
               },
             {id:9,
-              text:"",
+              text:"liebre",
               pic:"the url",
-              sound:"../../audio/br/.mp3"
+              sound:"../../audio/br/liebre.mp3"
               },  
             {id:10,
-              text:"",
+              text:"cabra",
               pic:"the url",
-              sound:"../../audio/br/.mp3"
+              sound:"../../audio/br/cabra.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"La lumbre brilla sobre la bruma.",
         sound:"../../audio/br/bror1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"El hombre cubre a la liebre.",
         sound:"../../audio/br/bror2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"La cabra brava es de Brasil.",
         sound:"../../audio/br/bror3.mp3"
       }      
     ]
@@ -395,70 +302,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"plátano",
         pic:"the url",
-        sound:"../../audio/pl/.mp3"
+        sound:"../../audio/pl/platano.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"plano",
           pic:"the url",
-          sound:"../../audio/pl/.mp3"
+          sound:"../../audio/pl/plano.mp3"
           },
           {id:3,
-            text:"",
+            text:"plomero",
             pic:"the url",
-            sound:"../../audio/pl/.mp3"
+            sound:"../../audio/pl/plomero.mp3"
             },
             {id:4,
-              text:"",
+              text:"playa",
               pic:"the url",
-              sound:"../../audio/pl/.mp3"
+              sound:"../../audio/pl/playa.mp3"
               },
             {id:5,
-            text:"",
+            text:"plancha",
             pic:"the url",
-            sound:"../../audio/pl/.mp3"
+            sound:"../../audio/pl/plancha.mp3"
             },
             {id:6,
-              text:"",
+              text:"pluma",
               pic:"the url",
-              sound:"../../audio/pl/.mp3"
+              sound:"../../audio/pl/pluma.mp3"
               },
             {id:7,
-              text:"",
+              text:"plaza",
               pic:"the url",
-              sound:"../../audio/pl/.mp3"
+              sound:"../../audio/pl/plaza.mp3"
               },
             {id:8,
-              text:"",
+              text:"sopla",
               pic:"the url",
-              sound:"../../audio/pl/.mp3"
+              sound:"../../audio/pl/sopla.mp3"
               },
             {id:9,
-              text:"",
+              text:"aplauso",
               pic:"the url",
-              sound:"../../audio/pl/.mp3"
+              sound:"../../audio/pl/aplauso.mp3"
               },  
             {id:10,
-              text:"",
+              text:"plato",
               pic:"the url",
-              sound:"../../audio/pl/.mp3"
+              sound:"../../audio/pl/plato.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"Sopla el plato con el plumero.",
         sound:"../../audio/pl/plor1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Pablo aplaude en la plaza.",
         sound:"../../audio/pl/plor2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"El plomero cumple.",
         sound:"../../audio/pl/plor3.mp3"
       }      
     ]
@@ -467,7 +374,7 @@ export const doubleConsonants = [
   {
     lt:"pr",
     head:"pr",
-    word:"",
+    word:"príncipe",
     mainP:"../../img/.png",
     silabas:[
         { text:"pra",
@@ -488,52 +395,52 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"príncipe",
         pic:"the url",
         sound:"../../audio/pr/.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"premio",
           pic:"the url",
           sound:"../../audio/pr/.mp3"
           },
           {id:3,
-            text:"",
+            text:"compra",
             pic:"the url",
             sound:"../../audio/pr/.mp3"
             },
             {id:4,
-              text:"",
+              text:"prueba",
               pic:"the url",
               sound:"../../audio/pr/.mp3"
               },
             {id:5,
-            text:"",
+            text:"prado",
             pic:"the url",
             sound:"../../audio/pr/.mp3"
             },
             {id:6,
-              text:"",
+              text:"precio",
               pic:"the url",
               sound:"../../audio/pr/.mp3"
               },
             {id:7,
-              text:"",
+              text:"practica",
               pic:"the url",
               sound:"../../audio/pr/.mp3"
               },
             {id:8,
-              text:"",
+              text:"prisa",
               pic:"the url",
               sound:"../../audio/pr/.mp3"
               },
             {id:9,
-              text:"",
+              text:"profesor",
               pic:"the url",
               sound:"../../audio/pr/.mp3"
               },  
             {id:10,
-              text:"",
+              text:"promesa",
               pic:"the url",
               sound:"../../audio/pr/.mp3"
               },
@@ -541,26 +448,211 @@ export const doubleConsonants = [
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"El profesor prepara la prueba.",
         sound:"../../audio/pr/pror1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Promete practicar para el premio.",
         sound:"../../audio/pr/pror2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"Compra pronto, tengo prisa.",
         sound:"../../audio/pr/pror3.mp3"
       }      
     ]
   },
 
   {
+    lt:"fl",
+    head:"fl",
+    word:"flor",
+    mainP:"../../img/.png",
+    silabas:[
+        { text:"fla",
+          sound:"../../audio/fl/fla.mp3"
+        },
+        { text:"fle",
+          sound:"../../audio/gl/fle.mp3"
+        },
+        { text:"fli",
+          sound:"../../audio/fl/fli.mp3"
+        },
+        { text:"flo",
+          sound:"../../audio/fl/flo.mp3"
+        },      
+        { text:"flu",
+          sound:"../../audio/fl/flu.mp3"
+        }  
+    ],
+    palabras:[
+        {id:1,
+        text:"flor",
+        pic:"the url",
+        sound:"../../audio/fl/flor.mp3"
+        },
+        {id:2,
+          text:"flauta",
+          pic:"the url",
+          sound:"../../audio/fl/flauta.mp3"
+          },
+          {id:3,
+            text:"flecha",
+            pic:"the url",
+            sound:"../../audio/fl/flecha.mp3"
+            },
+            {id:4,
+              text:"flan",
+              pic:"the url",
+              sound:"../../audio/fl/flan.mp3"
+              },
+            {id:5,
+            text:"reflejo",
+            pic:"the url",
+            sound:"../../audio/fl/reflejo.mp3"
+            },
+            {id:6,
+              text:"chiflar",
+              pic:"the url",
+              sound:"../../audio/fl/chiflar.mp3"
+              },
+            {id:7,
+              text:"fleco",
+              pic:"the url",
+              sound:"../../audio/fl/fleco.mp3"
+              },
+            {id:8,
+              text:"flama",
+              pic:"the url",
+              sound:"../../audio/fl/flama.mp3"
+              },
+            {id:9,
+              text:"flaco",
+              pic:"the url",
+              sound:"../../audio/fl/flaco.mp3"
+              },  
+            {id:10,
+              text:"camuflage",
+              pic:"the url",
+              sound:"../../audio/fl/camuflage.mp3"
+              },
+    ],
+    oraciones:[
+      {
+        id:1,
+        text:"Flor cocina un flan en la flama.",
+        sound:"../../audio/fl/flor1.mp3"
+      },
+      {
+        id:2,
+        text:"El flaco toca la flauta.",
+        sound:"../../audio/fl/flor2.mp3"
+      },
+      {
+        id:3,
+        text:"La flecha chifla al volar.",
+        sound:"../../audio/fl/flor3.mp3"
+      }      
+    ]
+  },
+
+  {
+    lt:"fr",
+    head:"fr",
+    word:"fresa",
+    mainP:"../../img/.png",
+    silabas:[
+        { text:"fra",
+          sound:"../../audio/fr/fra.mp3"
+        },
+        { text:"fre",
+          sound:"../../audio/fr/fre.mp3"
+        },
+        { text:"fri",
+          sound:"../../audio/fr/fri.mp3"
+        },
+        { text:"fro",
+          sound:"../../audio/fr/fro.mp3"
+        },      
+        { text:"fru",
+          sound:"../../audio/fr/fru.mp3"
+        }  
+    ],
+    palabras:[
+        {id:1,
+        text:"fresa",
+        pic:"the url",
+        sound:"../../audio/fr/.mp3"
+        },
+        {id:2,
+          text:"",
+          pic:"the url",
+          sound:"../../audio/fr/.mp3"
+          },
+          {id:3,
+            text:"",
+            pic:"the url",
+            sound:"../../audio/fr/.mp3"
+            },
+            {id:4,
+              text:"",
+              pic:"the url",
+              sound:"../../audio/fr/.mp3"
+              },
+            {id:5,
+            text:"",
+            pic:"the url",
+            sound:"../../audio/fr/.mp3"
+            },
+            {id:6,
+              text:"",
+              pic:"the url",
+              sound:"../../audio/fr/.mp3"
+              },
+            {id:7,
+              text:"",
+              pic:"the url",
+              sound:"../../audio/fr/.mp3"
+              },
+            {id:8,
+              text:"",
+              pic:"the url",
+              sound:"../../audio/fr/.mp3"
+              },
+            {id:9,
+              text:"",
+              pic:"the url",
+              sound:"../../audio/fr/.mp3"
+              },  
+            {id:10,
+              text:"",
+              pic:"the url",
+              sound:"../../audio/fr/.mp3"
+              },
+    ],
+    oraciones:[
+      {
+        id:1,
+        text:".",
+        sound:"../../audio/fr/fror1.mp3"
+      },
+      {
+        id:2,
+        text:".",
+        sound:"../../audio/fr/fror2.mp3"
+      },
+      {
+        id:3,
+        text:".",
+        sound:"../../audio/fr/fror3.mp3"
+      }      
+    ]
+  },
+  {
     lt:"gl",
     head:"gl",
-    word:"",
+    word:"globo",
     mainP:"../../img/.png",
     silabas:[
         { text:"gla",
