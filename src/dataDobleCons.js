@@ -397,52 +397,52 @@ export const doubleConsonants = [
         {id:1,
         text:"príncipe",
         pic:"the url",
-        sound:"../../audio/pr/.mp3"
+        sound:"../../audio/pr/pincipe.mp3"
         },
         {id:2,
           text:"premio",
           pic:"the url",
-          sound:"../../audio/pr/.mp3"
+          sound:"../../audio/pr/premio.mp3"
           },
           {id:3,
             text:"compra",
             pic:"the url",
-            sound:"../../audio/pr/.mp3"
+            sound:"../../audio/pr/compra.mp3"
             },
             {id:4,
               text:"prueba",
               pic:"the url",
-              sound:"../../audio/pr/.mp3"
+              sound:"../../audio/pr/prueba.mp3"
               },
             {id:5,
             text:"prado",
             pic:"the url",
-            sound:"../../audio/pr/.mp3"
+            sound:"../../audio/pr/prado.mp3"
             },
             {id:6,
               text:"precio",
               pic:"the url",
-              sound:"../../audio/pr/.mp3"
+              sound:"../../audio/pr/precio.mp3"
               },
             {id:7,
-              text:"practica",
+              text:"práctica",
               pic:"the url",
-              sound:"../../audio/pr/.mp3"
+              sound:"../../audio/pr/practica.mp3"
               },
             {id:8,
               text:"prisa",
               pic:"the url",
-              sound:"../../audio/pr/.mp3"
+              sound:"../../audio/pr/prisa.mp3"
               },
             {id:9,
               text:"profesor",
               pic:"the url",
-              sound:"../../audio/pr/.mp3"
+              sound:"../../audio/pr/profesor.mp3"
               },  
             {id:10,
               text:"promesa",
               pic:"the url",
-              sound:"../../audio/pr/.mp3"
+              sound:"../../audio/pr/promesa.mp3"
               },
     ],
     oraciones:[
@@ -583,68 +583,68 @@ export const doubleConsonants = [
         {id:1,
         text:"fresa",
         pic:"the url",
-        sound:"../../audio/fr/.mp3"
+        sound:"../../audio/fr/frio.mp3"
         },
         {id:2,
-          text:"",
+          text:"frío",
           pic:"the url",
           sound:"../../audio/fr/.mp3"
           },
           {id:3,
-            text:"",
+            text:"frasco",
             pic:"the url",
-            sound:"../../audio/fr/.mp3"
+            sound:"../../audio/fr/frasco.mp3"
             },
             {id:4,
-              text:"",
+              text:"fruta",
               pic:"the url",
-              sound:"../../audio/fr/.mp3"
+              sound:"../../audio/fr/fruta.mp3"
               },
             {id:5,
-            text:"",
+            text:"frijol",
             pic:"the url",
-            sound:"../../audio/fr/.mp3"
+            sound:"../../audio/fr/frijol.mp3"
             },
             {id:6,
-              text:"",
+              text:"fresco",
               pic:"the url",
-              sound:"../../audio/fr/.mp3"
+              sound:"../../audio/fr/fresco.mp3"
               },
             {id:7,
-              text:"",
+              text:"frenos",
               pic:"the url",
               sound:"../../audio/fr/.mp3"
               },
             {id:8,
-              text:"",
+              text:"frente",
               pic:"the url",
-              sound:"../../audio/fr/.mp3"
+              sound:"../../audio/fr/frente.mp3"
               },
             {id:9,
-              text:"",
+              text:"franela",
               pic:"the url",
-              sound:"../../audio/fr/.mp3"
+              sound:"../../audio/fr/franela.mp3"
               },  
             {id:10,
-              text:"",
+              text:"frustrado",
               pic:"the url",
-              sound:"../../audio/fr/.mp3"
+              sound:"../../audio/fr/frustrado.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"La fruta fresca esta enfrente.",
         sound:"../../audio/fr/fror1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Frota tu frente con la franela.",
         sound:"../../audio/fr/fror2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"Freddy come fresas frías.",
         sound:"../../audio/fr/fror3.mp3"
       }      
     ]
@@ -673,70 +673,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"globo",
         pic:"the url",
-        sound:"../../audio/gl/.mp3"
+        sound:"../../audio/gl/globo.mp3"
         },
         {id:2,
-          text:"",
+          text:"iglú",
           pic:"the url",
-          sound:"../../audio/gl/.mp3"
+          sound:"../../audio/gl/iglu.mp3"
           },
           {id:3,
-            text:"",
+            text:"iglesia",
             pic:"the url",
-            sound:"../../audio/gl/.mp3"
+            sound:"../../audio/gl/iglesia.mp3"
             },
             {id:4,
-              text:"",
+              text:"regla",
               pic:"the url",
-              sound:"../../audio/gl/.mp3"
+              sound:"../../audio/gl/regla.mp3"
               },
             {id:5,
-            text:"",
+            text:"jungla",
             pic:"the url",
-            sound:"../../audio/gl/.mp3"
+            sound:"../../audio/gl/jungla.mp3"
             },
             {id:6,
-              text:"",
+              text:"inglés",
               pic:"the url",
-              sound:"../../audio/gl/.mp3"
+              sound:"../../audio/gl/ingles.mp3"
               },
             {id:7,
-              text:"",
+              text:"arregla",
               pic:"the url",
-              sound:"../../audio/gl/.mp3"
+              sound:"../../audio/gl/arregla.mp3"
               },
             {id:8,
-              text:"",
+              text:"glaciar",
               pic:"the url",
-              sound:"../../audio/gl/.mp3"
+              sound:"../../audio/gl/glaciar.mp3"
               },
             {id:9,
-              text:"",
+              text:"renglón",
               pic:"the url",
-              sound:"../../audio/gl/.mp3"
+              sound:"../../audio/gl/renglon.mp3"
               },  
             {id:10,
-              text:"",
+              text:"Gloria",
               pic:"the url",
-              sound:"../../audio/gl/.mp3"
+              sound:"../../audio/gl/gloria.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"Hay un iglú en el glaciar.",
         sound:"../../audio/gl/glor1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Gloria arregla un globo.",
         sound:"../../audio/gl/glor2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"Usa la regla sobre el renglón.",
         sound:"../../audio/gl/glor3.mp3"
       }      
     ]
@@ -745,7 +745,7 @@ export const doubleConsonants = [
   {
     lt:"gr",
     head:"gr",
-    word:"",
+    word:"granja",
     mainP:"../../img/.png",
     silabas:[
         { text:"gra",
@@ -766,70 +766,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"granja",
         pic:"the url",
-        sound:"../../audio/gr/.mp3"
+        sound:"../../audio/gr/granja.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"gris",
           pic:"the url",
-          sound:"../../audio/gr/.mp3"
+          sound:"../../audio/gr/gris.mp3"
           },
           {id:3,
-            text:"",
+            text:"grillo",
             pic:"the url",
-            sound:"../../audio/gr/.mp3"
+            sound:"../../audio/gr/grillo.mp3"
             },
             {id:4,
-              text:"",
+              text:"tigre",
               pic:"the url",
-              sound:"../../audio/gr/.mp3"
+              sound:"../../audio/gr/tigre.mp3"
               },
             {id:5,
-            text:"",
+            text:"ogro",
             pic:"the url",
-            sound:"../../audio/gr/.mp3"
+            sound:"../../audio/gr/ogro.mp3"
             },
             {id:6,
-              text:"",
+              text:"grano",
               pic:"the url",
-              sound:"../../audio/gr/.mp3"
+              sound:"../../audio/gr/grano.mp3"
               },
             {id:7,
-              text:"",
+              text:"grúa",
               pic:"the url",
-              sound:"../../audio/gr/.mp3"
+              sound:"../../audio/gr/grua.mp3"
               },
             {id:8,
-              text:"",
+              text:"alegre",
               pic:"the url",
-              sound:"../../audio/gr/.mp3"
+              sound:"../../audio/gr/alegre.mp3"
               },
             {id:9,
-              text:"",
+              text:"agrio",
               pic:"the url",
-              sound:"../../audio/gr/.mp3"
+              sound:"../../audio/gr/agrio.mp3"
               },  
             {id:10,
-              text:"",
+              text:"grueso",
               pic:"the url",
-              sound:"../../audio/gr/.mp3"
+              sound:"../../audio/gr/grueso.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"El grillo canta alegre.",
         sound:"../../audio/gr/gror1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"El grueso ogro grita groserías.",
         sound:"../../audio/gr/gror2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"El tigre traga granos gratis.",
         sound:"../../audio/gr/gror3.mp3"
       }      
     ]
@@ -838,91 +838,91 @@ export const doubleConsonants = [
   {
     lt:"cl",
     head:"cl",
-    word:"",
+    word:"clase",
     mainP:"../../img/.png",
     silabas:[
         { text:"cla",
-          sound:"../../audio/cl/cl.mp3"
+          sound:"../../audio/cl/cla.mp3"
         },
         { text:"cle",
-          sound:"../../audio/cl/cl.mp3"
+          sound:"../../audio/cl/cle.mp3"
         },
         { text:"cli",
-          sound:"../../audio/cl/cl.mp3"
+          sound:"../../audio/cl/cli.mp3"
         },
         { text:"clo",
-          sound:"../../audio/cl/cl.mp3"
+          sound:"../../audio/cl/clo.mp3"
         },      
         { text:"clu",
-          sound:"../../audio/cl/cl.mp3"
+          sound:"../../audio/cl/clu.mp3"
         }  
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"clase",
         pic:"the url",
-        sound:"../../audio/cl/.mp3"
+        sound:"../../audio/cl/clase.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"clavo",
           pic:"the url",
-          sound:"../../audio/cl/.mp3"
+          sound:"../../audio/cl/clavo.mp3"
           },
           {id:3,
-            text:"",
+            text:"tecla",
             pic:"the url",
-            sound:"../../audio/cl/.mp3"
+            sound:"../../audio/cl/tecla.mp3"
             },
             {id:4,
-              text:"",
+              text:"closet",
               pic:"the url",
-              sound:"../../audio/cl/.mp3"
+              sound:"../../audio/cl/closet.mp3"
               },
             {id:5,
-            text:"",
+            text:"chancla",
             pic:"the url",
-            sound:"../../audio/cl/.mp3"
+            sound:"../../audio/cl/chancla.mp3"
             },
             {id:6,
-              text:"",
+              text:"chicle",
               pic:"the url",
-              sound:"../../audio/cl/.mp3"
+              sound:"../../audio/cl/chicle.mp3"
               },
             {id:7,
-              text:"",
+              text:"clínica",
               pic:"the url",
-              sound:"../../audio/cl/.mp3"
+              sound:"../../audio/cl/clínica.mp3"
               },
             {id:8,
-              text:"",
+              text:"claro",
               pic:"the url",
-              sound:"../../audio/cl/.mp3"
+              sound:"../../audio/cl/claro.mp3"
               },
             {id:9,
-              text:"",
+              text:"bicicleta",
               pic:"the url",
-              sound:"../../audio/cl/.mp3"
+              sound:"../../audio/cl/bicicleta.mp3"
               },  
             {id:10,
-              text:"",
+              text:"clima",
               pic:"the url",
-              sound:"../../audio/cl/.mp3"
+              sound:"../../audio/cl/clima.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"Clava las teclas del clarinete.",
         sound:"../../audio/cl/clor1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Clara tiene un chicle en la chancla.",
         sound:"../../audio/cl/clor2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"La clase sobre el clima es en la clínica.",
         sound:"../../audio/cl/clor3.mp3"
       }      
     ]
@@ -931,7 +931,7 @@ export const doubleConsonants = [
   {
     lt:"cr",
     head:"cr",
-    word:"",
+    word:"crayón",
     mainP:"../../img/.png",
     silabas:[
         { text:"cra",
@@ -952,70 +952,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"crayón",
         pic:"the url",
-        sound:"../../audio/cr/.mp3"
+        sound:"../../audio/cr/crayón.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"crema",
           pic:"the url",
-          sound:"../../audio/cr/.mp3"
+          sound:"../../audio/cr/cema.mp3"
           },
           {id:3,
-            text:"",
+            text:"crece",
             pic:"the url",
-            sound:"../../audio/cr/.mp3"
+            sound:"../../audio/cr/crece.mp3"
             },
             {id:4,
-              text:"",
+              text:"cruce",
               pic:"the url",
-              sound:"../../audio/cr/.mp3"
+              sound:"../../audio/cr/cruce.mp3"
               },
             {id:5,
-            text:"",
+            text:"recreo",
             pic:"the url",
-            sound:"../../audio/cr/.mp3"
+            sound:"../../audio/cr/recreo.mp3"
             },
             {id:6,
-              text:"",
+              text:"escribir",
               pic:"the url",
-              sound:"../../audio/cr/.mp3"
+              sound:"../../audio/cr/escribir.mp3"
               },
             {id:7,
-              text:"",
+              text:"cruz",
               pic:"the url",
-              sound:"../../audio/cr/.mp3"
+              sound:"../../audio/cr/cruz.mp3"
               },
             {id:8,
-              text:"",
+              text:"secreto",
               pic:"the url",
-              sound:"../../audio/cr/.mp3"
+              sound:"../../audio/cr/secreto.mp3"
               },
             {id:9,
-              text:"",
+              text:"cristal",
               pic:"the url",
-              sound:"../../audio/cr/.mp3"
+              sound:"../../audio/cr/cristal.mp3"
               },  
             {id:10,
-              text:"",
+              text:"alacrán",
               pic:"the url",
-              sound:"../../audio/cr/.mp3"
+              sound:"../../audio/cr/alacrán.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"Escribe con el crayón.",
         sound:"../../audio/cr/cror1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Crea un cristal en el escritorio.",
         sound:"../../audio/cr/cror2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"En el recreo me dirás el secreto.",
         sound:"../../audio/cr/cror3.mp3"
       }      
     ]
@@ -1024,7 +1024,7 @@ export const doubleConsonants = [
   {
   lt:"dr",
     head:"dr",
-    word:"",
+    word:"dragón",
     mainP:"../../img/.png",
     silabas:[
         { text:"dra",
@@ -1045,70 +1045,70 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"",
+        text:"dragón",
         pic:"the url",
-        sound:"../../audio/dr/.mp3"
+        sound:"../../audio/dr/dragón.mp3"
         },
         {id:2,
-          text:"Memo",
+          text:"cuadro",
           pic:"the url",
-          sound:"../../audio/dr/.mp3"
+          sound:"../../audio/dr/cuadro.mp3"
           },
           {id:3,
-            text:"",
+            text:"madre",
             pic:"the url",
-            sound:"../../audio/dr/.mp3"
+            sound:"../../audio/dr/madre.mp3"
             },
             {id:4,
-              text:"",
+              text:"almendra",
               pic:"the url",
-              sound:"../../audio/dr/.mp3"
+              sound:"../../audio/dr/almendra.mp3"
               },
             {id:5,
-            text:"",
+            text:"ladra",
             pic:"the url",
-            sound:"../../audio/dr/.mp3"
+            sound:"../../audio/dr/ladra.mp3"
             },
             {id:6,
-              text:"",
+              text:"vidrio",
               pic:"the url",
-              sound:"../../audio/dr/.mp3"
+              sound:"../../audio/dr/vidrio.mp3"
               },
             {id:7,
-              text:"",
+              text:"cilindro",
               pic:"the url",
-              sound:"../../audio/dr/.mp3"
+              sound:"../../audio/dr/cilindro.mp3"
               },
             {id:8,
-              text:"",
+              text:"padre",
               pic:"the url",
-              sound:"../../audio/dr/.mp3"
+              sound:"../../audio/dr/padre.mp3"
               },
             {id:9,
-              text:"",
+              text:"ladrillo",
               pic:"the url",
-              sound:"../../audio/dr/.mp3"
+              sound:"../../audio/dr/ladrillo.mp3"
               },  
             {id:10,
-              text:"",
+              text:"piedra",
               pic:"the url",
-              sound:"../../audio/dr/.mp3"
+              sound:"../../audio/dr/piedra.mp3"
               },
     ],
     oraciones:[
       {
         id:1,
-        text:".",
+        text:"La casa es de ladrillo, vidrio y piedra.",
         sound:"../../audio/r/dror1.mp3"
       },
       {
         id:2,
-        text:".",
+        text:"Ese dragón en un ladrón.",
         sound:"../../audio/r/dror2.mp3"
       },
       {
         id:3,
-        text:".",
+        text:"El perro ladra al dromedario.",
         sound:"../../audio/r/dror3.mp3"
       }      
     ]
