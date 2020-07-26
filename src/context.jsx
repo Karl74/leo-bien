@@ -41,7 +41,10 @@ class AppProvider extends Component {
     return LessonLetter
   }
 
-
+  getDoubleConsonant =(id)=>{
+    const LessonLetter = this.state.doubleConsonants.find(letter => letter.lt === id)
+    return LessonLetter
+  }
   loadConsonant =(id)=>{
     let tempConsontants = [...this.state.dataConsonantes]
     const index = tempConsontants.indexOf(this.getLetter(id))
@@ -64,6 +67,19 @@ class AppProvider extends Component {
         this.callComplementVocals()
       })
   }
+
+  loadDoubleConsonant =(id)=>{
+    let tempDoubleConsonants = [...this.state.doubleConsonants] 
+    const index = tempDoubleConsonants.indexOf(this.getDoubleConsonant(id))
+    const doubleConsonant = tempDoubleConsonants[index]
+    this.setState(()=>{
+      return {
+        currentLesson:doubleConsonant,
+        onDisplay:doubleConsonant.silabas
+      }
+    })
+  }
+
   displayPalabras =()=>{
     let tempCurrentLesson = this.state.currentLesson
     const palabras = tempCurrentLesson.palabras
@@ -203,7 +219,8 @@ class AppProvider extends Component {
           openModal:this.openModal,
           closeModal:this.closeModal,
           displayQuizzAnswerChoices:this.displayQuizzAnswerChoices,
-          backToHome:this.backToHome
+          backToHome:this.backToHome,
+          loadDoubleConsonant:this.loadDoubleConsonant
             }}>
           {this.props.children}
         </AppContext.Provider>
