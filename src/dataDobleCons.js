@@ -3,7 +3,7 @@ export const doubleConsonants = [
     lt:"tr",
     head:"tr",
     word:"tren",
-    mainP:"../../img/.png",
+    mainP:"../../img/tren.png",
     silabas:[
         { text:"tra",
           sound:"../../audio/tr/tra.mp3"
@@ -96,7 +96,7 @@ export const doubleConsonants = [
     lt:"bl",
     head:"bl",
     word:"blanco",
-    mainP:"../../img/.png",
+    mainP:"../../img/blanco.png",
     silabas:[
         { text:"bla",
           sound:"../../audio/bl/bla.mp3"
@@ -189,7 +189,7 @@ export const doubleConsonants = [
     lt:"br",
     head:"br",
     word:"brocha",
-    mainP:"../../img/.png",
+    mainP:"../../img/brocha.png",
     silabas:[
         { text:"bra",
           sound:"../../audio/br/bra.mp3"
@@ -282,7 +282,7 @@ export const doubleConsonants = [
     lt:"pl",
     head:"pl",
     word:"platano",
-    mainP:"../../img/.png",
+    mainP:"../../img/banana.png",
     silabas:[
         { text:"pla",
           sound:"../../audio/pl/pla.mp3"
@@ -374,8 +374,8 @@ export const doubleConsonants = [
   {
     lt:"pr",
     head:"pr",
-    word:"príncipe",
-    mainP:"../../img/.png",
+    word:"princesa",
+    mainP:"../../img/princesa.png",
     silabas:[
         { text:"pra",
           sound:"../../audio/pr/pra.mp3"
@@ -468,7 +468,7 @@ export const doubleConsonants = [
     lt:"fl",
     head:"fl",
     word:"flor",
-    mainP:"../../img/.png",
+    mainP:"../../img/flor.png",
     silabas:[
         { text:"fla",
           sound:"../../audio/fl/fla.mp3"
@@ -561,7 +561,7 @@ export const doubleConsonants = [
     lt:"fr",
     head:"fr",
     word:"fresa",
-    mainP:"../../img/.png",
+    mainP:"../../img/fresa.png",
     silabas:[
         { text:"fra",
           sound:"../../audio/fr/fra.mp3"
@@ -653,7 +653,7 @@ export const doubleConsonants = [
     lt:"gl",
     head:"gl",
     word:"globo",
-    mainP:"../../img/.png",
+    mainP:"../../img/globo.png",
     silabas:[
         { text:"gla",
           sound:"../../audio/gl/gla.mp3"
@@ -746,7 +746,7 @@ export const doubleConsonants = [
     lt:"gr",
     head:"gr",
     word:"granja",
-    mainP:"../../img/.png",
+    mainP:"../../img/granja.png",
     silabas:[
         { text:"gra",
           sound:"../../audio/gr/gra.mp3"
@@ -839,7 +839,7 @@ export const doubleConsonants = [
     lt:"cl",
     head:"cl",
     word:"clase",
-    mainP:"../../img/.png",
+    mainP:"../../img/clase.png",
     silabas:[
         { text:"cla",
           sound:"../../audio/cl/cla.mp3"
@@ -932,7 +932,7 @@ export const doubleConsonants = [
     lt:"cr",
     head:"cr",
     word:"crayón",
-    mainP:"../../img/.png",
+    mainP:"../../img/crayon.png",
     silabas:[
         { text:"cra",
           sound:"../../audio/cr/cra.mp3"
@@ -1025,7 +1025,7 @@ export const doubleConsonants = [
   lt:"dr",
     head:"dr",
     word:"dragón",
-    mainP:"../../img/.png",
+    mainP:"../../img/dragon.png",
     silabas:[
         { text:"dra",
           sound:"../../audio/dr/dra.mp3"
