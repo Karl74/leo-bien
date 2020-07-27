@@ -5,7 +5,7 @@ import {AppConsumer} from "../../context"
 export default function Vocales() {
   return (
     <div className="container p-1">
-      <div className="d-flex aling-items-start flex-wrap">
+      <div className="d-flex aling-items-start justify-content-around">
         <AppConsumer>
           {value=>{
             return (value.dataVocales.map((letter)=>

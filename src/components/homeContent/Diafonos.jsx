@@ -11,7 +11,7 @@ export default function Diafonos() {
           {value=>{
             return (value.doubleConsonants.map((letter)=>
                 <LetterCardMenu key={letter.lt}
-                letter={letter} link="diafonos"
+                letter={letter} link="dia"
                   action = {value.loadDoubleConsonant}
                 />
                 )

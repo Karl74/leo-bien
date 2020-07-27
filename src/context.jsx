@@ -50,7 +50,8 @@ class AppProvider extends Component {
     const index = tempConsontants.indexOf(this.getLetter(id))
     const consonant = tempConsontants[index]
     this.setState({currentLesson:consonant,
-                  onDisplay:consonant.silabas
+                  onDisplay:consonant.silabas,
+                  slideIndex:0
     })
   }
 
@@ -61,7 +62,9 @@ class AppProvider extends Component {
     this.setState(()=>{
         return {
           currentLesson:vocal,
-          onDisplay:vocal.palabras
+          onDisplay:vocal.palabras,
+          slideIndex:0,
+          practiceMode:false
         }
       }, ()=>{
         this.callComplementVocals()
@@ -75,7 +78,8 @@ class AppProvider extends Component {
     this.setState(()=>{
       return {
         currentLesson:doubleConsonant,
-        onDisplay:doubleConsonant.silabas
+        onDisplay:doubleConsonant.silabas,
+        slideIndex:0
       }
     })
   }
@@ -105,7 +109,7 @@ class AppProvider extends Component {
   }
 
   displayVocalesPalabras=()=>{
-    this.setState({practiceMode:false})
+    this.setState({practiceMode:false,slideIndex:0})
   }
 
   getVocalLabel = ()=>{

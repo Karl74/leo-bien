@@ -80,5 +80,13 @@ body {
 .pictureFrame {
   display: flex;
   align-items: center;
+}
 
+.soundIcon {
+  transition:all .2s linear;
+}
+
+.soundIcon:hover {
+  cursor: pointer;
+  transform: scale(1.5);
 }

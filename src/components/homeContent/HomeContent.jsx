@@ -42,9 +42,8 @@ export default class HomeContent extends Component {
               break;
 
                 
-              default: console.log("no encuento nada")
+              default: console.log("not found")
             }
-             
           }}
         </AppConsumer>
       </div>

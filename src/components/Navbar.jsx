@@ -11,12 +11,16 @@ export default function Navbar() {
           <nav className="d-flex align-items-center justify-content-between mb-md-0">
             <h1 className="textHeader">LEO BIEN</h1>
             <div>
+            <Link to="/">
+                <button className="btn btn-lg btn-danger m-1" style={{minWidth:"7rem"}} onClick={()=>value.backToHome()}>Salir</button>
+              </Link>
+              
               <Link to="/">
-                <button className="btn btn-lg btn-warning m-1">Regresar</button>
+                <button className="btn btn-lg btn-primary m-1" style={{minWidth:"7rem"}} onClick={()=>value.backToHome()}>Inicio</button>
               </Link>
 
               <Link to="/">
-                <button className="btn btn-lg btn-danger m-1" onClick={()=>value.backToHome()}>Inicio</button>
+                <button className="btn btn-lg btn-success m-1" style={{minWidth:"7rem"}}>Regresar</button>
               </Link>
             </div>
           </nav> 
