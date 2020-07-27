@@ -25,7 +25,7 @@ export const doubleConsonants = [
         {id:1,
         text:"triángulo",
         pic:"the url",
-        sound:"../../audio/tr/triángulo.mp3"
+        sound:"../../audio/tr/triangulo.mp3"
         },
         {id:2,
           text:"estrella",
@@ -583,12 +583,12 @@ export const doubleConsonants = [
         {id:1,
         text:"fresa",
         pic:"the url",
-        sound:"../../audio/fr/frio.mp3"
+        sound:"../../audio/fr/fresa.mp3"
         },
         {id:2,
           text:"frío",
           pic:"the url",
-          sound:"../../audio/fr/.mp3"
+          sound:"../../audio/fr/frio.mp3"
           },
           {id:3,
             text:"frasco",
