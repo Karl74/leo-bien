@@ -19,7 +19,6 @@ export default class LessonDisplay extends Component {
             const total = value.onDisplay.length 
             const progress = (value.slideIndex < 1)? (0) : ((value.slideIndex + 1) / total )
             const percent = progress *100
-            console.log(percent)
             const barStyle = {width: `${percent}%`}
             const playAudio = ()=>{
               let itemAudio = ""
