@@ -90,3 +90,8 @@ body {
   cursor: pointer;
   transform: scale(1.5);
 }
+
+.cardText {
+  line-height: 150% !important;
+  font-size: 75%;
+}

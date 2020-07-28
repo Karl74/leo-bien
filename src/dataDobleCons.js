@@ -105,13 +105,13 @@ export const doubleConsonants = [
           sound:"../../audio/bl/ble.mp3"
         },
         { text:"bli",
-          sound:"../../audio/bl/bl.mp3"
+          sound:"../../audio/bl/bli.mp3"
         },
         { text:"blo",
-          sound:"../../audio/bl/bli.mp3"
+          sound:"../../audio/bl/blo.mp3"
         },      
         { text:"blu",
-          sound:"../../audio/bl/blo.mp3"
+          sound:"../../audio/bl/blu.mp3"
         }  
     ],
     palabras:[
@@ -395,9 +395,9 @@ export const doubleConsonants = [
     ],
     palabras:[
         {id:1,
-        text:"príncipe",
+        text:"princesa",
         pic:"the url",
-        sound:"../../audio/pr/pincipe.mp3"
+        sound:"../../audio/pr/princesa.mp3"
         },
         {id:2,
           text:"premio",
@@ -954,12 +954,12 @@ export const doubleConsonants = [
         {id:1,
         text:"crayón",
         pic:"the url",
-        sound:"../../audio/cr/crayón.mp3"
+        sound:"../../audio/cr/crayon.mp3"
         },
         {id:2,
           text:"crema",
           pic:"the url",
-          sound:"../../audio/cr/cema.mp3"
+          sound:"../../audio/cr/crema.mp3"
           },
           {id:3,
             text:"crece",
@@ -999,7 +999,7 @@ export const doubleConsonants = [
             {id:10,
               text:"alacrán",
               pic:"the url",
-              sound:"../../audio/cr/alacrán.mp3"
+              sound:"../../audio/cr/alacran.mp3"
               },
     ],
     oraciones:[

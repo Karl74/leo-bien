@@ -28,7 +28,7 @@ export default class HomeContent extends Component {
               case 'consonantes':
               return (<Consonantes/>)
               break;
-              case 'diafonos':
+              case 'ccv':
                 return (<Diafonos/>)
                 break;
               case 'lecturas':
