@@ -2378,9 +2378,9 @@ export const consonantes = [
           sound:"../../audio/z/pieza.mp3"
           },
         {id:5,
-        text:"zebra",
+        text:"zapato",
         pic:"the url",
-        sound:"../../audio/z/zebra.mp3"
+        sound:"../../audio/z/zapato.mp3"
         },
         {id:6,
           text:"lazo",
@@ -2405,7 +2405,7 @@ export const consonantes = [
         {id:10,
           text:"zorro",
           pic:"the url",
-          sound:"../../audio/z/zorr.mp3"
+          sound:"../../audio/z/zorro.mp3"
           },
     ],
     oraciones:[
