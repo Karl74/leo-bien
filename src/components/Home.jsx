@@ -26,7 +26,7 @@ export default function Home() {
               <Sidebar/>
             </div>
             <div className="col-sm-10 col-md-10">
-            <HomeContent/>
+              <HomeContent/>
             </div>
           </div>
 

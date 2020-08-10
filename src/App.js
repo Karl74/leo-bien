@@ -10,6 +10,7 @@ import LeccionVideos from "./components/LeccionVideos"
 import LeccionVoc from "./components/LeccionVoc"
 import LeccionDia from "./components/LeccionDia"
 import Default from "./components/Default"
+import Login from "./components/LogIn"
 
 function App() {
   return (
@@ -18,6 +19,8 @@ function App() {
       <div className="container">
         <img src="../img/lion150.png" alt="Lion Leo" className="float-left"/> 
         <Navbar/>
+
+        
         <Switch>
           <Route exact path="/" component={Home}/>
           <Route path="/vocales" component={LeccionVoc}/>
@@ -26,6 +29,7 @@ function App() {
           <Route path="/lecturas" component={LeccionLec}/>
           <Route path="/oraciones" component={LeccionOra}/>
           <Route path="/videos" component={LeccionVideos}/>
+          <Route path="/login" component={Login}/>
           <Route component={Default}/>
         </Switch>
       </div>
