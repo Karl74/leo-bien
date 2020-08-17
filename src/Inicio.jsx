@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import {Switch, Route} from "react-router-dom"
 import Navbar from "./components/Navbar.jsx";
 import Home from "./components/Home.jsx";
@@ -9,8 +8,6 @@ import LeccionOra from "./components/LeccionOra"
 import LeccionVideos from "./components/LeccionVideos"
 import LeccionVoc from "./components/LeccionVoc"
 import LeccionDia from "./components/LeccionDia"
-import Default from "./components/Default"
-import Login from "./components/accessComponents/LogIn"
 
 function App() {
   return (
@@ -29,8 +26,7 @@ function App() {
           <Route path="/lecturas" component={LeccionLec}/>
           <Route path="/oraciones" component={LeccionOra}/>
           <Route path="/videos" component={LeccionVideos}/>
-          <Route path="/login" component={Login}/>
-          <Route component={Default}/>
+
         </Switch>
       </div>
     </React.Fragment>

@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css"
 import {BrowserRouter as Router} from "react-router-dom"
 import {AppProvider} from "./context"
 
+
 ReactDOM.render(
   <React.StrictMode>
     <AppProvider>

@@ -1,5 +1,6 @@
 import React from 'react'
-import Title from "./title"
+import Title from "../title"
+import {Link} from "react-router-dom"
 
 export default function LogIn() {
   return (
@@ -25,12 +26,13 @@ export default function LogIn() {
               <div className="my-1">
                 <button type="submit" className="btn btn-primary btn-lg btn-block mw-100 ">Log in </button>
               </div>
-
-              <div className="my-1">
-                <button type="submit" className="btn btn-success btn-lg btn-block mw-100 ">Create a new account </button>
-              </div>
-                
             </form>
+              <Link to= "/signup">
+                <div className="my-1">
+                  <button type="submit" className="btn btn-success btn-lg btn-block mw-100 ">Create a new account </button>
+                </div>
+              </Link>
+                
         </div>
       </div>
     </div>
