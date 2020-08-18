@@ -1,16 +1,12 @@
 import React from 'react';
 import './App.css';
-import {Switch, Route} from "react-router-dom"
-import Navbar from "./components/Navbar.jsx";
-import Home from "./components/Home.jsx";
-import LeccionCons from "./components/LeccionCons"
-import LeccionLec from "./components/LeccionLec"
-import LeccionOra from "./components/LeccionOra"
-import LeccionVideos from "./components/LeccionVideos"
-import LeccionVoc from "./components/LeccionVoc"
-import LeccionDia from "./components/LeccionDia"
+import {Switch, Route, BrowserRouter as Router} from "react-router-dom"
 import Default from "./components/Default"
-import Login from "./components/accessComponents/LogIn"
+import LogIn from "./components/accessComponents/LogIn"
+import SignUp from "./components/accessComponents/SignUp"
+import PrivateRoute from "./components/accessComponents/PrivateRoute"
+import StartApp from "./components/StartApp"
+
 
 function App() {
   return (
@@ -18,20 +14,15 @@ function App() {
 
       <div className="container">
         <img src="../img/lion150.png" alt="Lion Leo" className="float-left"/> 
-        <Navbar/>
 
-        
-        <Switch>
-          <Route exact path="/" component={Home}/>
-          <Route path="/vocales" component={LeccionVoc}/>
-          <Route path="/consonantes" component={LeccionCons}/>
-          <Route path="/dia" component={LeccionDia}/>
-          <Route path="/lecturas" component={LeccionLec}/>
-          <Route path="/oraciones" component={LeccionOra}/>
-          <Route path="/videos" component={LeccionVideos}/>
-          <Route path="/login" component={Login}/>
-          <Route component={Default}/>
-        </Switch>
+        <Router>
+          <Switch>
+            <Route exact path="/" component={LogIn}/>
+            <Route path="/signup" component={SignUp}/>
+            <PrivateRoute path="/exclusive" component={StartApp} />
+            <Route component={Default}/>
+          </Switch>
+        </Router>  
       </div>
     </React.Fragment>
   );

@@ -10,7 +10,7 @@ export default function Consonantes() {
           {value=>{
             return (value.dataConsonantes.map((letter)=>
                 <LetterCardMenu key={letter.lt}
-                letter={letter} link="consonantes"
+                letter={letter} link="/exclusive/consonantes"
                   action = {value.loadConsonant}
                 />
                 )

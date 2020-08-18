@@ -6,7 +6,7 @@ export default function LogIn() {
   return (
     <div>
       <div className="jumbotron py-2 text-center bg-title mb-1">
-        <Title act="login"/>
+        <Title act="Sign Up"/>
       </div>
         
     

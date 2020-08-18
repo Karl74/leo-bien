@@ -10,7 +10,7 @@ export default function Vocales() {
           {value=>{
             return (value.dataVocales.map((letter)=>
                 <LetterCardMenu key={letter.lt} cardText= {letter.head}
-                letter={letter} link="vocales"
+                letter={letter} link="/exclusive/vocales"
                   action= {value.loadVocal}
                 />
                 )

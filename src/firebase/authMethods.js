@@ -3,10 +3,10 @@ import firebase from "firebase"
 
 export const authMethods = {
   signUp: (email, password, setErrors, setToken)=>{
-      firebase.auth().createUserWithEmailAndPassword(email,password)
+      firebase.auth().createUserWithEmailAndPassword(email, password)
       .then(async res=> {
         //crear la varibale token
-
+          
         //guardar token en local storage
 
         //enviar token al state usando el hook setToken y tomando la informacion de token

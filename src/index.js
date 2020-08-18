@@ -3,17 +3,13 @@ import ReactDOM from 'react-dom';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import "bootstrap/dist/css/bootstrap.min.css"
-import {BrowserRouter as Router} from "react-router-dom"
-import {AppProvider} from "./context"
-
+import {LoginProvider} from "./Providers/LoginProvider"
 
 ReactDOM.render(
   <React.StrictMode>
-    <AppProvider>
-      <Router>
+    <LoginProvider>
         <App />
-      </Router>
-    </AppProvider>
+      </LoginProvider>
   </React.StrictMode>,
   document.getElementById('root')
 );
